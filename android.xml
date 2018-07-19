@@ -3641,7 +3641,7 @@ devmfp/api/adapters/retailStatementBranchBhMfpAdapterMobileIFT/request/rest/proc
 </param>
 <param name="pushListAlternativeDesign" description="Возможность отображения альтернативного варианта ленты уведомлений">
 <type>setting</type>
-<enabled>true</enabled>
+<enabled>false</enabled>
 </param>
 <param name="nodePushListAlternativeDesign" description="Возможность альтернативного варианта ленты уведомлений на разных нодах">
 <type>list</type>
