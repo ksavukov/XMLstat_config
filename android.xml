@@ -2699,7 +2699,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <nodes>
 <node id="mobile.sberbank.ru">
 <targetTapToActivationMobileBank>true</targetTapToActivationMobileBank>
-<mobileBankFromSettings>true</mobileBankFromSettings>
+<mobileBankFromSettings>false</mobileBankFromSettings>
 <turnOffFullTariffEnabled>true</turnOffFullTariffEnabled>
 <efsMobileBank82>false</efsMobileBank82>
 </node>
@@ -2740,7 +2740,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <nodes>
 <node id="mobile.sberbank.ru">
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
-<alternativePushSettingTexts>true</alternativePushSettingTexts>
+<alternativePushSettingTexts>false</alternativePushSettingTexts>
 <pushPreEnrichment>false</pushPreEnrichment>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
