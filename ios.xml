@@ -89,7 +89,7 @@
 <node id="node3.online.sberbank.ru">
 <enabled>false</enabled>
 <fatkashow>false</fatkashow>
-<ufsbranches>false</ufsbranfches>
+<ufsbranches>false</ufsbranches>
 <ufshistory>false</ufshistory>
 <digitalcardshow>false</digitalcardshow>
 <ikaotransliteration>false</ikaotransliteration>
@@ -335,7 +335,7 @@
 <cardBlock id="Visa Digital"/>
 </cardBlockList>
 <notification>
-<title>Перевести остаток средств перед блокировкой?</title>
+<title>Блокировка карты</title>
 <description>
 Рекомендуем перед блокировкой карты перевести остаток средств на другую карту или счет. После блокировки карты получить денежные средства можно будет только в офисе банка при предъявлении документа, удостоверяющего личность
 </description>
@@ -1843,7 +1843,7 @@ The entered ID is already in use in the system. Enter a different value
 Здесь можно перевести любую сумму пострадавшим в Кемерове
 </text>
 </charity>
-<overseasTransfer>true</overseasTransfer>
+<overseasTransfer>false</overseasTransfer>
 <importantInfoEnabled>false</importantInfoEnabled>
 <historyRouterEnabled>true</historyRouterEnabled>
 <SBTelecomSectionOnlyForClients>false</SBTelecomSectionOnlyForClients>
@@ -2534,11 +2534,11 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 </param>
 <param name="creditCardOrder" description="Заказ кредитной карты в ЕФС">
 <type>service</type>
-<enabled>false</enabled>
+<enabled>true</enabled>
 </param>
 <param name="creditCardOrderV2" description="Заказ кредитной карты в ЕФС, версия 2">
 <type>service</type>
-<enabled>false</enabled>
+<enabled>true</enabled>
 </param>
 <param name="creditCardUfsHistory" description="Отображение подробностей по заказу кредитной карты ЕФС в ИО">
 <type>service</type>
@@ -3030,8 +3030,8 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <nodes>
 <node id="mobile.sberbank.ru">
 <targetBilling>344</targetBilling>
-<targetProvider>688468</targetProvider>
-<targetService>688468</targetService>
+<targetProvider>688061</targetProvider>
+<targetService>688061</targetService>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <targetBilling>344</targetBilling>
@@ -3301,7 +3301,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 </param>
 <param name="CardPushEnabled" description="">
 <type>setting</type>
-<enabled>true</enabled>
+<enabled>false</enabled>
 </param>
 <param name="DDAPermissions" description="Консолидированные включатели функционала Data Driven App">
 <type>list</type>
@@ -3708,7 +3708,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <enabled>true</enabled>
 </node>
 <node id="mobile.sberbank.ru">
-<enabled>false</enabled>
+<enabled>true</enabled>
 </node>
 <node id="194.186.207.23">
 <enabled>true</enabled>
