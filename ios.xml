@@ -1425,6 +1425,7 @@ The entered ID is already in use in the system. Enter a different value
 </node>
 <node id="mobile.sberbank.ru">
 <pushAlertEnabled>true</pushAlertEnabled>
+<efsMobileBank>true</efsMobileBank>
 </node>
 </nodes>
 </param>
@@ -4035,6 +4036,15 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 </node>
 <node id="194.186.207.23">
 <enabled>true</enabled>
+</node>
+</nodes>
+</param>
+<param name="PushPermissions" description="">
+<type>list</type>
+<nodes>
+<node id="mobile.sberbank.ru">
+<buttonToPostLogin>true</buttonToPostLogin>
+<pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 </node>
 </nodes>
 </param>
