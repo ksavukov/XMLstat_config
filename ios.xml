@@ -4039,14 +4039,43 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 </node>
 </nodes>
 </param>
-<param name="PushPermissions" description="">
+<param name="900Permissions" description="Возможность отображать информацию по состоянию услуги МБ и возможность подключать МБ">
+<type>list</type>
+<pushAlertTimeInterval>10</pushAlertTimeInterval>
+<efsMobileBank>true</efsMobileBank>
+<nodes>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<efsMobileBank>true</efsMobileBank>
+</node>
+<node id="mobile.sberbank.ru">
+<efsMobileBank>true</efsMobileBank>
+</node>
+<node id="ift-node1.testonline.sberbank.ru">
+<efsMobileBank>true</efsMobileBank>
+</node>  
+</nodes>
+</param>
+<param name="MobileBankSettings" description="Настройки для подключения МБ в МП">
 <type>list</type>
 <nodes>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<mobileBankFromSetting>true</mobileBankFromSetting>
+</node>
 <node id="mobile.sberbank.ru">
-<buttonToPostLogin>true</buttonToPostLogin>
-<pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
+<mobileBankFromSetting>true</mobileBankFromSetting>
+</node>
+<node id="ift-node1.testonline.sberbank.ru">
+<mobileBankFromSetting>true</mobileBankFromSetting>
+</node>
+<node id="node2.online.sberbank.ru">
+<mobileBankFromSetting>false</mobileBankFromSetting>
+</node>
+<node id="node3.online.sberbank.ru">
+<mobileBankFromSetting>false</mobileBankFromSetting>
+</node>
+<node id="node4.online.sberbank.ru">
+<mobileBankFromSetting>false</mobileBankFromSetting>
 </node>
 </nodes>
 </param>
-</params>
 </configuration>
