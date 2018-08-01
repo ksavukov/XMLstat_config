@@ -3976,7 +3976,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 </param>
 <param name="notificationStripeHistory" description="">
 <type>setting</type>
-<enabled>true</enabled>
+<enabled>false</enabled>
 <nodes>
 <node id="node0.online.sberbank.ru">
 <enabled>true</enabled>
