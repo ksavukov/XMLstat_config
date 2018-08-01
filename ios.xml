@@ -4386,7 +4386,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 </node>
 <node id="mobile.sberbank.ru">
-<buttonToPostLogin>true</buttonToPostLogin>
+<buttonToPostLogin>false</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>false</pushHistoryAvailableInTabbarBank>
 </node>
 <node id="194.186.207.23">
