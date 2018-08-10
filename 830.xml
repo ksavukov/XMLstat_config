@@ -1330,6 +1330,7 @@ The entered ID is already in use in the system. Enter a different value
 </charity>
 <EribEBillingUtilitiesReceiptShowButtonEnabled>true</EribEBillingUtilitiesReceiptShowButtonEnabled>
 <webAnalyticsEnabled>true</webAnalyticsEnabled>
+<productNavigationBarMod>3</productNavigationBarMod>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <coreQR>true</coreQR>
