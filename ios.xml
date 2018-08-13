@@ -4382,42 +4382,42 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <node id="greenfield1.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<autoTurnOffOperationPush>true</autoTurnOffOperationPush> 
+<autoTurnOffOperationPush>false</autoTurnOffOperationPush> 
 </node>
 <node id="psinode1.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<autoTurnOffOperationPush>true</autoTurnOffOperationPush> 
+<autoTurnOffOperationPush>false</autoTurnOffOperationPush> 
 </node>
 <node id="mobile.sberbank.ru">
 <buttonToPostLogin>false</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>false</pushHistoryAvailableInTabbarBank>
-<autoTurnOffOperationPush>true</autoTurnOffOperationPush> 
+<autoTurnOffOperationPush>false</autoTurnOffOperationPush> 
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<autoTurnOffOperationPush>true</autoTurnOffOperationPush> 
+<autoTurnOffOperationPush>false</autoTurnOffOperationPush> 
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<autoTurnOffOperationPush>true</autoTurnOffOperationPush> 
+<autoTurnOffOperationPush>false</autoTurnOffOperationPush> 
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<autoTurnOffOperationPush>true</autoTurnOffOperationPush> 
+<autoTurnOffOperationPush>false</autoTurnOffOperationPush> 
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<autoTurnOffOperationPush>true</autoTurnOffOperationPush> 
+<autoTurnOffOperationPush>false</autoTurnOffOperationPush> 
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<autoTurnOffOperationPush>true</autoTurnOffOperationPush> 
+<autoTurnOffOperationPush>false</autoTurnOffOperationPush> 
 </node>
 </nodes>
 </param>
