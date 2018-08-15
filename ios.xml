@@ -1895,7 +1895,7 @@ The entered ID is already in use in the system. Enter a different value
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <arrestInfoService>true</arrestInfoService>
 <FastLoginApp>true</FastLoginApp>
-<productNavigationBarMod>2</productNavigationBarMod>
+<productNavigationBarMod>3</productNavigationBarMod>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <coreQR>true</coreQR>
