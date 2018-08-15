@@ -4277,6 +4277,8 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 </level>
 <level id="showBadgePostLoginTabbar">
 <enabled>true</enabled>
+<level id="showBadgePostLoginNavBar">
+<enabled>true</enabled>
 </level>
 </levels>
 </param>
