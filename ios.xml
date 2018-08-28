@@ -4396,7 +4396,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <TurnOffOperationPush>true</TurnOffOperationPush>
 </node>
 <node id="mobile.sberbank.ru">
-<buttonToPostLogin>false</buttonToPostLogin>
+<buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>false</pushHistoryAvailableInTabbarBank>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush> 
