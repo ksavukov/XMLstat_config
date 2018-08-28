@@ -4269,10 +4269,10 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <enabled>false</enabled>
 </level>
 <level id="showBagePostLoginHistory">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </level>
 <level id="showBagePreLogin">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </level>
 <level id="showBageOnAppIcon">
 <enabled>true</enabled>
