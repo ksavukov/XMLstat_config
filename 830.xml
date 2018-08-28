@@ -4394,14 +4394,14 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <node id="psinode1.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<autoTurnOffOperationPush>false</autoTurnOffOperationPush> 
-<TurnOffOperationPush>false</TurnOffOperationPush>
+<autoTurnOffOperationPush>true</autoTurnOffOperationPush> 
+<TurnOffOperationPush>true</TurnOffOperationPush>
 </node>
 <node id="mobile.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>false</pushHistoryAvailableInTabbarBank>
-<autoTurnOffOperationPush>false</autoTurnOffOperationPush>
-<TurnOffOperationPush>false</TurnOffOperationPush> 
+<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
+<TurnOffOperationPush>true</TurnOffOperationPush> 
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
