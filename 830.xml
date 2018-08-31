@@ -2955,7 +2955,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 </param>
 <param name="StaticSourceMerchantPics" description="статресурс для логотипов">
 <type>source</type>
-<link>http://adv.icons.s3.amazonaws.com/merchantIcons</link>
+<link>https://pfm.stat.online.sberbank.ru/PFM/logos/</link>
 </param>
 <param name="CarLoan" description="Заявка на автокредит">
 <type>setting</type>
@@ -3939,7 +3939,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <param name="DelayCuteCheck" description="время ожидания ответа с обогащённым контентом">
 <type>setting</type>
 <enabled>true</enabled>
-<delay>10</delay>
+<delay>1</delay>
 </param>
 <param name="TPNDataEnrichment" description="Возможность обогащения данных для ТПУ на разрешенных нодах">
 <type>setting</type>
