@@ -10,7 +10,7 @@
 <offers>true</offers>
 </node>
 <node id="node0.online.sberbank.ru">
-<bonusBalance>true</bonusBalance>
+<bonusBalance>false</bonusBalance>
 <dashboard>true</dashboard>
 <offers>true</offers>
 </node>
