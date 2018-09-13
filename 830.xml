@@ -4402,7 +4402,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <pushHistoryAvailableInTabbarBank>false</pushHistoryAvailableInTabbarBank>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
-<MessagesWithExpired>true</MessagesWithExpired>
+<MessagesWithExpired>false</MessagesWithExpired>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 </node>
 <node id="194.186.207.23">
