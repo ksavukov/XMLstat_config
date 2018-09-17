@@ -3549,7 +3549,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <param name="TxPushSuggestion" description="">
 <type>setting</type>
 <enabled>true</enabled>
-<periodInDays>3</periodInDays>
+<periodInDays>15</periodInDays>
 <number>5</number>
 </param>
 <param name="nodeDoNotShowPushTutorialForApiLevels" description="">
