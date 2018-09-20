@@ -5358,7 +5358,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
-<NotificationSettingsOwn>false</NotificationSettingsOwn>
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
