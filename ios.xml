@@ -4289,8 +4289,8 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <param name="TxPushSuggestion" description="">
 <type>setting</type>
 <enabled>true</enabled>
-<periodInDays>3</periodInDays>
-<number>5</number>
+<periodInDays>7</periodInDays>
+<number>2</number>
 </param>
 <param name="nodeDoNotShowPushTutorialForApiLevels" description="">
 <type>list</type>
