@@ -1769,7 +1769,7 @@ The entered ID is already in use in the system. Enter a different value
 <newSectionInvestEnable>true</newSectionInvestEnable>
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <FastLoginApp>true</FastLoginApp>
-<productNavigationBarMod>3</productNavigationBarMod>
+<productNavigationBarMod>1</productNavigationBarMod>
 </node>
 <node id="greenfield2.online.sberbank.ru">
 <coreQR>true</coreQR>
@@ -1832,7 +1832,7 @@ The entered ID is already in use in the system. Enter a different value
 <newSectionInvestEnable>true</newSectionInvestEnable>
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <FastLoginApp>true</FastLoginApp>
-<productNavigationBarMod>3</productNavigationBarMod>
+<productNavigationBarMod>1</productNavigationBarMod>
 </node>
 <node id="mobile.sberbank.ru">
 <coreQR>true</coreQR>
@@ -1897,7 +1897,7 @@ The entered ID is already in use in the system. Enter a different value
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <arrestInfoService>true</arrestInfoService>
 <FastLoginApp>true</FastLoginApp>
-<productNavigationBarMod>3</productNavigationBarMod>
+<productNavigationBarMod>1</productNavigationBarMod>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <coreQR>true</coreQR>
@@ -1953,6 +1953,7 @@ The entered ID is already in use in the system. Enter a different value
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <arrestInfoService>true</arrestInfoService>
 <FastLoginApp>true</FastLoginApp>
+<productNavigationBarMod>1</productNavigationBarMod>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <coreQR>true</coreQR>
@@ -2063,6 +2064,7 @@ The entered ID is already in use in the system. Enter a different value
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <arrestInfoService>true</arrestInfoService>
 <FastLoginApp>true</FastLoginApp>
+<productNavigationBarMod>1</productNavigationBarMod>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <coreQR>true</coreQR>
@@ -4428,7 +4430,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <node id="ift-node1.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
+<autoTurnOffOperationPush>false</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <MessagesWithExpired>true</MessagesWithExpired>
 </node>
@@ -4441,7 +4443,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<autoTurnOffOperationPush>true</autoTurnOffOperationPush> 
+<autoTurnOffOperationPush>false</autoTurnOffOperationPush> 
 <TurnOffOperationPush>true</TurnOffOperationPush>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
