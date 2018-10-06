@@ -1462,6 +1462,18 @@ The entered ID is already in use in the system. Enter a different value
 <node id="mobile.sberbank.ru">
 <pushAlertEnabled>true</pushAlertEnabled>
 </node>
+<node id="ift-node1.testonline.sberbank.ru">
+<efsMobileBank>false</efsMobileBank>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<efsMobileBank>false</efsMobileBank>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<efsMobileBank>false</efsMobileBank>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<efsMobileBank>false</efsMobileBank>
+</node>
 </nodes>
 </param>
 <param name="CorePermissions" description="">
