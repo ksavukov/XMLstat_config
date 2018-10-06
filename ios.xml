@@ -5349,12 +5349,14 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
+<pushLogoTypeUsing>true</pushLogoTypeUsing>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
+<pushLogoTypeUsing>true</pushLogoTypeUsing>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -5362,6 +5364,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
+<pushLogoTypeUsing>true</pushLogoTypeUsing>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -5369,6 +5372,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
+<pushLogoTypeUsing>true</pushLogoTypeUsing>
 </node>
 </nodes>
 </param>
