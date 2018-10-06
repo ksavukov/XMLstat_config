@@ -5350,6 +5350,8 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
+<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
+<TurnOffOperationPush>true</TurnOffOperationPush>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -5357,6 +5359,8 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
+<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
+<TurnOffOperationPush>true</TurnOffOperationPush>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -5365,6 +5369,8 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
+<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
+<TurnOffOperationPush>true</TurnOffOperationPush>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -5373,6 +5379,8 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
+<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
+<TurnOffOperationPush>true</TurnOffOperationPush>
 </node>
 </nodes>
 </param>
