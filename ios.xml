@@ -5424,7 +5424,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryRequest>true</pushHistoryRequest>
 <pushHistoryHeadBatchSize>3</pushHistoryHeadBatchSize>
 <pushHistoryScrollBatchSize>2</pushHistoryScrollBatchSize>
-<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 </node>
 </nodes>
