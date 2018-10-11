@@ -5319,10 +5319,10 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <pushHistoryRequest>true</pushHistoryRequest>
-<pushHistoryHeadBatchSize>30</pushHistoryHeadBatchSize>
-<pushHistoryScrollBatchSize>15</pushHistoryScrollBatchSize>
-<forcedHistoryQuery>true</forcedHistoryQuery>
-<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<pushHistoryHeadBatchSize>3</pushHistoryHeadBatchSize>
+<pushHistoryScrollBatchSize>2</pushHistoryScrollBatchSize>
+<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="greenfield1.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -5330,10 +5330,10 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <pushHistoryRequest>true</pushHistoryRequest>
-<pushHistoryHeadBatchSize>30</pushHistoryHeadBatchSize>
-<pushHistoryScrollBatchSize>15</pushHistoryScrollBatchSize>
-<forcedHistoryQuery>true</forcedHistoryQuery>
-<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<pushHistoryHeadBatchSize>3</pushHistoryHeadBatchSize>
+<pushHistoryScrollBatchSize>2</pushHistoryScrollBatchSize>
+<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="psinode1.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -5341,10 +5341,10 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <pushHistoryRequest>true</pushHistoryRequest>
-<pushHistoryHeadBatchSize>30</pushHistoryHeadBatchSize>
-<pushHistoryScrollBatchSize>15</pushHistoryScrollBatchSize>
-<forcedHistoryQuery>true</forcedHistoryQuery>
-<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<pushHistoryHeadBatchSize>3</pushHistoryHeadBatchSize>
+<pushHistoryScrollBatchSize>2</pushHistoryScrollBatchSize>
+<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="mobile.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -5352,10 +5352,10 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <pushHistoryRequest>true</pushHistoryRequest>
-<pushHistoryHeadBatchSize>30</pushHistoryHeadBatchSize>
-<pushHistoryScrollBatchSize>15</pushHistoryScrollBatchSize>
-<forcedHistoryQuery>true</forcedHistoryQuery>
-<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<pushHistoryHeadBatchSize>3</pushHistoryHeadBatchSize>
+<pushHistoryScrollBatchSize>2</pushHistoryScrollBatchSize>
+<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -5363,10 +5363,10 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <pushHistoryRequest>true</pushHistoryRequest>
-<pushHistoryHeadBatchSize>30</pushHistoryHeadBatchSize>
-<pushHistoryScrollBatchSize>15</pushHistoryScrollBatchSize>
-<forcedHistoryQuery>true</forcedHistoryQuery>
-<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<pushHistoryHeadBatchSize>3</pushHistoryHeadBatchSize>
+<pushHistoryScrollBatchSize>2</pushHistoryScrollBatchSize>
+<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <buttonToPostLogin>false</buttonToPostLogin>
@@ -5378,10 +5378,10 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <pushHistoryRequest>true</pushHistoryRequest>
-<pushHistoryHeadBatchSize>30</pushHistoryHeadBatchSize>
-<pushHistoryScrollBatchSize>15</pushHistoryScrollBatchSize>
-<forcedHistoryQuery>true</forcedHistoryQuery>
-<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<pushHistoryHeadBatchSize>3</pushHistoryHeadBatchSize>
+<pushHistoryScrollBatchSize>2</pushHistoryScrollBatchSize>
+<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <buttonToPostLogin>false</buttonToPostLogin>
@@ -5392,10 +5392,10 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <pushHistoryRequest>true</pushHistoryRequest>
-<pushHistoryHeadBatchSize>30</pushHistoryHeadBatchSize>
-<pushHistoryScrollBatchSize>15</pushHistoryScrollBatchSize>
-<forcedHistoryQuery>true</forcedHistoryQuery>
-<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<pushHistoryHeadBatchSize>3</pushHistoryHeadBatchSize>
+<pushHistoryScrollBatchSize>2</pushHistoryScrollBatchSize>
+<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <buttonToPostLogin>false</buttonToPostLogin>
@@ -5407,10 +5407,10 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <pushHistoryRequest>true</pushHistoryRequest>
-<pushHistoryHeadBatchSize>30</pushHistoryHeadBatchSize>
-<pushHistoryScrollBatchSize>15</pushHistoryScrollBatchSize>
-<forcedHistoryQuery>true</forcedHistoryQuery>
-<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<pushHistoryHeadBatchSize>3</pushHistoryHeadBatchSize>
+<pushHistoryScrollBatchSize>2</pushHistoryScrollBatchSize>
+<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>false</buttonToPostLogin>
@@ -5422,10 +5422,10 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <pushHistoryRequest>true</pushHistoryRequest>
-<pushHistoryHeadBatchSize>30</pushHistoryHeadBatchSize>
-<pushHistoryScrollBatchSize>15</pushHistoryScrollBatchSize>
-<forcedHistoryQuery>true</forcedHistoryQuery>
-<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<pushHistoryHeadBatchSize>3</pushHistoryHeadBatchSize>
+<pushHistoryScrollBatchSize>2</pushHistoryScrollBatchSize>
+<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 </node>
 </nodes>
 </param>
