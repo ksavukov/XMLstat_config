@@ -5408,8 +5408,8 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <pushHistoryRequest>true</pushHistoryRequest>
-<forcedHistoryQuery>true</forcedHistoryQuery>
-<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
+<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 </nodes>
 </param>
