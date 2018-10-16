@@ -5312,8 +5312,8 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 </param>
 <param name="PushPermissions" description="единый стек параметров для push">
 <type>list</type>
-<pushHistoryHeadBatchSize>3</pushHistoryHeadBatchSize>
-<pushHistoryScrollBatchSize>2</pushHistoryScrollBatchSize>
+<pushHistoryHeadBatchSize>30</pushHistoryHeadBatchSize>
+<pushHistoryScrollBatchSize>15</pushHistoryScrollBatchSize>
 <nodes>
 <node id="greenfield0.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -5394,9 +5394,9 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
-<pushHistoryRequest>false</pushHistoryRequest>
-<forcedHistoryQuery>false</forcedHistoryQuery>
-<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
+<pushHistoryRequest>true</pushHistoryRequest>
+<forcedHistoryQuery>true</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>false</buttonToPostLogin>
