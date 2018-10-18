@@ -5320,7 +5320,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
-<pushHistoryRequest>true</pushHistoryRequest>
+<pushHistoryRequest>false</pushHistoryRequest>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
@@ -5329,7 +5329,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
-<pushHistoryRequest>true</pushHistoryRequest>
+<pushHistoryRequest>false</pushHistoryRequest>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
@@ -5338,7 +5338,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
-<pushHistoryRequest>true</pushHistoryRequest>
+<pushHistoryRequest>false</pushHistoryRequest>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
@@ -5347,7 +5347,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
-<pushHistoryRequest>true</pushHistoryRequest>
+<pushHistoryRequest>false</pushHistoryRequest>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
@@ -5356,7 +5356,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
-<pushHistoryRequest>true</pushHistoryRequest>
+<pushHistoryRequest>false</pushHistoryRequest>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
@@ -5369,7 +5369,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
-<pushHistoryRequest>true</pushHistoryRequest>
+<pushHistoryRequest>false</pushHistoryRequest>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
@@ -5381,7 +5381,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
-<pushHistoryRequest>true</pushHistoryRequest>
+<pushHistoryRequest>false</pushHistoryRequest>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
@@ -5394,7 +5394,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
-<pushHistoryRequest>true</pushHistoryRequest>
+<pushHistoryRequest>false</pushHistoryRequest>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
@@ -5407,7 +5407,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
-<pushHistoryRequest>true</pushHistoryRequest>
+<pushHistoryRequest>false</pushHistoryRequest>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
