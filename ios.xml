@@ -2,7 +2,7 @@
 <params>
 <param name="Loyalty" description="Программа лояльности «Спасибо от Сбербанка»">
 <type>list</type>
-<enabled>true</enabled>
+<enabled>false</enabled>
 <nodes>
 <node id="mobile.sberbank.ru" description="Стенд ПСИ">
 <bonusBalance>true</bonusBalance>
