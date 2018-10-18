@@ -5518,44 +5518,44 @@ https://stat.online.sberbank.ru/PhizIC-res/IMG/PU/20/63/61/2b26d928c6b985710071f
 <type>list</type>
 <nodes>
 <node id="greenfield0.online.sberbank.ru">
-<mobileBankFromSetting>true</mobileBankFromSetting>
-<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
+<mobileBankFromSetting>false</mobileBankFromSetting>
+<mobileBankFromCardSetting>false</mobileBankFromCardSetting>
 </node>
 <node id="greenfield1.online.sberbank.ru">
-<mobileBankFromSetting>true</mobileBankFromSetting>
-<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
+<mobileBankFromSetting>false</mobileBankFromSetting>
+<mobileBankFromCardSetting>false</mobileBankFromCardSetting>
 </node>
 <node id="psinode1.testonline.sberbank.ru">
-<mobileBankFromSetting>true</mobileBankFromSetting>
-<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
+<mobileBankFromSetting>false</mobileBankFromSetting>
+<mobileBankFromCardSetting>false</mobileBankFromCardSetting>
 </node>
 <node id="mobile.sberbank.ru">
-<mobileBankFromSetting>true</mobileBankFromSetting>
-<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
-<CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
+<mobileBankFromSetting>false</mobileBankFromSetting>
+<mobileBankFromCardSetting>false</mobileBankFromCardSetting>
+<CardPhoneListCacheEnabled>false</CardPhoneListCacheEnabled>
 </node>
 <node id="194.186.207.23">
-<mobileBankFromSetting>true</mobileBankFromSetting>
-<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
+<mobileBankFromSetting>false</mobileBankFromSetting>
+<mobileBankFromCardSetting>false</mobileBankFromCardSetting>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
-<mobileBankFromSetting>true</mobileBankFromSetting>
-<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
+<mobileBankFromSetting>false</mobileBankFromSetting>
+<mobileBankFromCardSetting>false</mobileBankFromCardSetting>
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
-<mobileBankFromSetting>true</mobileBankFromSetting>
-<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
+<mobileBankFromSetting>false</mobileBankFromSetting>
+<mobileBankFromCardSetting>false</mobileBankFromCardSetting>
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
-<mobileBankFromSetting>true</mobileBankFromSetting>
-<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
+<mobileBankFromSetting>false</mobileBankFromSetting>
+<mobileBankFromCardSetting>false</mobileBankFromCardSetting>
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
-<mobileBankFromSetting>true</mobileBankFromSetting>
-<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
+<mobileBankFromSetting>false</mobileBankFromSetting>
+<mobileBankFromCardSetting>false</mobileBankFromCardSetting>
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 </node>
 </nodes>
