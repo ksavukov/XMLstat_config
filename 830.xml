@@ -1781,7 +1781,7 @@ The entered ID is already in use in the system. Enter a different value
 <newSectionInvestEnable>true</newSectionInvestEnable>
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <FastLoginApp>true</FastLoginApp>
-<productNavigationBarMod>1</productNavigationBarMod>
+<productNavigationBarMod>3</productNavigationBarMod>
 </node>
 <node id="greenfield2.online.sberbank.ru">
 <coreQR>true</coreQR>
@@ -1844,7 +1844,7 @@ The entered ID is already in use in the system. Enter a different value
 <newSectionInvestEnable>true</newSectionInvestEnable>
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <FastLoginApp>true</FastLoginApp>
-<productNavigationBarMod>1</productNavigationBarMod>
+<productNavigationBarMod>3</productNavigationBarMod>
 </node>
 <node id="mobile.sberbank.ru">
 <coreQR>true</coreQR>
@@ -1909,7 +1909,7 @@ The entered ID is already in use in the system. Enter a different value
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <arrestInfoService>true</arrestInfoService>
 <FastLoginApp>true</FastLoginApp>
-<productNavigationBarMod>1</productNavigationBarMod>
+<productNavigationBarMod>3</productNavigationBarMod>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <coreQR>true</coreQR>
@@ -1965,7 +1965,7 @@ The entered ID is already in use in the system. Enter a different value
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <arrestInfoService>true</arrestInfoService>
 <FastLoginApp>true</FastLoginApp>
-<productNavigationBarMod>1</productNavigationBarMod>
+<productNavigationBarMod>3</productNavigationBarMod>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <coreQR>true</coreQR>
@@ -2076,7 +2076,7 @@ The entered ID is already in use in the system. Enter a different value
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <arrestInfoService>true</arrestInfoService>
 <FastLoginApp>true</FastLoginApp>
-<productNavigationBarMod>1</productNavigationBarMod>
+<productNavigationBarMod>3</productNavigationBarMod>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <coreQR>true</coreQR>
