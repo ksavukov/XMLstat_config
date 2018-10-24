@@ -5355,7 +5355,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
-<NotificationSettingsOwn>false</NotificationSettingsOwn>
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
 <pushHistoryRequest>true</pushHistoryRequest>
 <forcedHistoryQuery>false</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
@@ -5389,7 +5389,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <buttonToPostLogin>false</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
-<NotificationSettingsOwn>false</NotificationSettingsOwn>
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
@@ -5402,7 +5402,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <buttonToPostLogin>false</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
-<NotificationSettingsOwn>false</NotificationSettingsOwn>
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
