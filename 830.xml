@@ -4403,6 +4403,8 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 </param>
 <param name="PushPermissions" description="единый стек параметров для push">
 <type>list</type>
+<pushHistoryHeadBatchSize>10</pushHistoryHeadBatchSize>
+<pushHistoryScrollBatchSize>10</pushHistoryScrollBatchSize>
 <nodes>
 <node id="greenfield0.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -4410,6 +4412,9 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
+<pushHistoryRequest>true</pushHistoryRequest>
+<forcedHistoryQuery>true</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="greenfield1.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -4417,6 +4422,9 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
+<pushHistoryRequest>true</pushHistoryRequest>
+<forcedHistoryQuery>true</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="psinode1.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
