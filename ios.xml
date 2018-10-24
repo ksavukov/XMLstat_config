@@ -5370,7 +5370,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <pushHistoryRequest>true</pushHistoryRequest>
-<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
@@ -5382,7 +5382,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <pushHistoryRequest>true</pushHistoryRequest>
-<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
@@ -5395,7 +5395,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <pushHistoryRequest>true</pushHistoryRequest>
-<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
@@ -5408,7 +5408,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <pushHistoryRequest>true</pushHistoryRequest>
-<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 </nodes>
