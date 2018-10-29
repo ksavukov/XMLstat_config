@@ -4415,6 +4415,10 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <pushHistoryRequest>true</pushHistoryRequest>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
+<showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
+<showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
+<newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 </node>
 <node id="greenfield1.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -4425,12 +4429,17 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <pushHistoryRequest>true</pushHistoryRequest>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
+<showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
+<showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
+<newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 </node>
 <node id="psinode1.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush> 
 <TurnOffOperationPush>true</TurnOffOperationPush>
+<showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
 </node>
 <node id="mobile.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -4473,6 +4482,12 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <TurnOffOperationPush>true</TurnOffOperationPush>
 </node>
 </nodes>
+<bestActions>
+<bestActions name=“Перевод клиенту Сбербанка” link="sberbankonline://payments/p2p-by-card-number"/>
+<bestActions name=“ЖКХ и домашний телефон” link="sberbankonline://payments/jkh"/>
+<bestActions name=“Мобильная связь” link="sberbankonline://payments/mobile-phone"/>
+<operationAmount>1</operationAmount>   
+</bestActions>  
 </param>
 </params>
 </configuration>
