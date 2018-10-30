@@ -5351,6 +5351,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQuery>false</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 <showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
+<pushLogoTypeUsing>true</pushLogoTypeUsing>
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
