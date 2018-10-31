@@ -5323,6 +5323,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryRequest>true</pushHistoryRequest>
 <forcedHistoryQuery>false</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
+<showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
 <node id="greenfield1.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -5332,6 +5333,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryRequest>true</pushHistoryRequest>
 <forcedHistoryQuery>false</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
+<showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
 <node id="psinode1.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -5341,6 +5343,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryRequest>true</pushHistoryRequest>
 <forcedHistoryQuery>false</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
+<showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
 <node id="mobile.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -5352,6 +5355,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 <showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
+<showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -5361,6 +5365,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryRequest>true</pushHistoryRequest>
 <forcedHistoryQuery>false</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
+<showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <buttonToPostLogin>false</buttonToPostLogin>
@@ -5375,6 +5380,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
+<showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <buttonToPostLogin>false</buttonToPostLogin>
@@ -5388,6 +5394,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
+<showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <buttonToPostLogin>false</buttonToPostLogin>
@@ -5402,6 +5409,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
+<showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>false</buttonToPostLogin>
@@ -5416,6 +5424,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
+<showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
 </nodes>
 <bestActions>
