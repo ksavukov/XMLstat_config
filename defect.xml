@@ -3600,33 +3600,33 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 				<node id="ift-node1-mp.testonline.sberbank.ru">
 					<excludeNotificationTypesFromBadgeInPreLogin>1,2,3,4,5,6,7,8,9,10</excludeNotificationTypesFromBadgeInPreLogin>
 					<doNotContainTPUInBadgeNewNotificationEntryPoint>false</doNotContainTPUInBadgeNewNotificationEntryPoint>
-					<showNewNotificationEntryPoint>true</showNewNotificationEntryPoint>
-					<showNewNotificationEntryPointWS>true</showNewNotificationEntryPointWS>
-					<newFailedOperationDesign>true</newFailedOperationDesign>
-					<showOperationTypeInTPU>true</showOperationTypeInTPU>
-					<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
+					<showNewNotificationEntryPoint>false</showNewNotificationEntryPoint>
+					<showNewNotificationEntryPointWS>false</showNewNotificationEntryPointWS>
+					<newFailedOperationDesign>false</newFailedOperationDesign>
+					<showOperationTypeInTPU>false</showOperationTypeInTPU>
+					<autoTurnOffOperationPush>false</autoTurnOffOperationPush>
 					<alternativePushSettingTexts>true</alternativePushSettingTexts>
-					<pushPreEnrichment>true</pushPreEnrichment>
+					<pushPreEnrichment>false</pushPreEnrichment>
 					<updateTokenForegroundService>true</updateTokenForegroundService>
-					<showSmsTextInCuteCheque>true</showSmsTextInCuteCheque>
-					<newNotificationDesign>true</newNotificationDesign>
-					<showCuteChequeWithoutMerchantName>true</showCuteChequeWithoutMerchantName>
+					<showSmsTextInCuteCheque>false</showSmsTextInCuteCheque>
+					<newNotificationDesign>false</newNotificationDesign>
+					<showCuteChequeWithoutMerchantName>false</showCuteChequeWithoutMerchantName>
 					<requestPermissionToReadSMS>
-						<version from="8.5" value="true"/>
+						<version from="8.5" value="false"/>
 					</requestPermissionToReadSMS>
 					<pushLogoTypeUsing>
-						<version from="8.6" value="true"/>
+						<version from="8.6" value="false"/>
 					</pushLogoTypeUsing>
 					<reactivateMainPushNotifications>
-						<version from="8.6" value="true"/>
+						<version from="8.6" value="false"/>
 					</reactivateMainPushNotifications>
 					<showNewAttributesInPushContent>
-						<version from="8.5" value="true"/>
+						<version from="8.5" value="false"/>
 					</showNewAttributesInPushContent>
 					<sendApiLevelForAutoConnectionTPU>true</sendApiLevelForAutoConnectionTPU>
 					<apiLevelforATOnTPU>18.00</apiLevelforATOnTPU>
 					<showUniversalPushNotification>
-                <version from="8.6" value="true"/>
+                <version from="8.6" value="false"/>
             </showUniversalPushNotification>
 				</node>
 				<node id="ift-node2-mp.testonline.sberbank.ru">
