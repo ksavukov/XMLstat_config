@@ -3605,7 +3605,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<newFailedOperationDesign>true</newFailedOperationDesign>
 					<showOperationTypeInTPU>true</showOperationTypeInTPU>
 					<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
-					<alternativePushSettingTexts>false</alternativePushSettingTexts>
+					<alternativePushSettingTexts>true</alternativePushSettingTexts>
 					<pushPreEnrichment>true</pushPreEnrichment>
 					<updateTokenForegroundService>true</updateTokenForegroundService>
 					<showSmsTextInCuteCheque>true</showSmsTextInCuteCheque>
