@@ -3623,7 +3623,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<showNewAttributesInPushContent>
 						<version from="8.5" value="true"/>
 					</showNewAttributesInPushContent>
-					<sendApiLevelForAutoСonnectionTPU>true</sendApiLevelForAutoСonnectionTPU>
+					<sendApiLevelForAutoConnectionTPU>true</sendApiLevelForAutoConnectionTPU>
 					<apiLevelforATOnTPU>18.00</apiLevelforATOnTPU>
 					<showUniversalPushNotification>
                 <version from="8.6" value="true"/>
@@ -3655,7 +3655,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<showNewAttributesInPushContent>
 						<version from="8.5" value="true"/>
 					</showNewAttributesInPushContent>
-					<sendApiLevelForAutoСonnectionTPU>true</sendApiLevelForAutoСonnectionTPU>
+					<sendApiLevelForAutoConnectionTPU>true</sendApiLevelForAutoConnectionTPU>
 					<apiLevelforATOnTPU>18.00</apiLevelforATOnTPU>
 					<showUniversalPushNotification>
                 <version from="8.6" value="true"/>
