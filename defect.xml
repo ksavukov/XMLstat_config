@@ -1964,7 +1964,7 @@ The entered ID is already in use in the system. Enter a different value
 		<param name="900Permissions" description="">
 			<type>list</type>
 			<pushAlertTimeInterval>10</pushAlertTimeInterval>
-			<efsMobileBank>false</efsMobileBank>
+			<efsMobileBank>true</efsMobileBank>
 			<nodes>
 				<node id="node0.online.sberbank.ru">
 					<pushAlertEnabled>true</pushAlertEnabled>
@@ -1974,11 +1974,11 @@ The entered ID is already in use in the system. Enter a different value
 					<pushAlertEnabled>true</pushAlertEnabled>
 					<efsMobileBank>true</efsMobileBank>
 				</node>
-				<node id="node2.online.sberbank.ru">
+				<node id="ift-node1-mp.testonline.sberbank.ru">
 					<pushAlertEnabled>true</pushAlertEnabled>
 					<efsMobileBank>true</efsMobileBank>
 				</node>
-				<node id="node3.online.sberbank.ru">
+				<node id="ift-node2-mp.testonline.sberbank.ru">
 					<pushAlertEnabled>true</pushAlertEnabled>
 					<efsMobileBank>true</efsMobileBank>
 				</node>
@@ -3418,6 +3418,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<useMobileBankExtendedRequests>
 						<version from="8.5" value="true"/>
 					</useMobileBankExtendedRequests>
+					<enableChangePhoneNumberInMB>true</enableChangePhoneNumberInMB>
 				</node>
 				<node id="ift-node2.testonline.sberbank.ru">
 					<targetTapToActivationMobileBank>true</targetTapToActivationMobileBank>
@@ -3456,6 +3457,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<useMobileBankExtendedRequests>
 						<version from="8.5" value="true"/>
 					</useMobileBankExtendedRequests>
+					<enableChangePhoneNumberInMB>true</enableChangePhoneNumberInMB>
 				</node>
 				<node id="ift-node2-mp.testonline.sberbank.ru">
 					<targetTapToActivationMobileBank>true</targetTapToActivationMobileBank>
