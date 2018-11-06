@@ -3532,11 +3532,11 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<sendApiLevelForAutoConnectionTPU>true</sendApiLevelForAutoConnectionTPU>
 					<apiLevelforATOnTPU>18.00</apiLevelforATOnTPU>
 					<showUniversalPushNotification>
-                <version from="8.6" value="true"/>
-            </showUniversalPushNotification>
+						<version from="8.6" value="true"/>
+					</showUniversalPushNotification>
 					<enableFilterInNotificationTape>
-                <version from="9.0" value="true"/>
-            </enableFilterInNotificationTape>
+						<version from="9.0" value="true"/>
+					</enableFilterInNotificationTape>
 				</node>
 				<node id="ift-node1.testonline.sberbank.ru">
 					<excludeNotificationTypesFromBadgeInPreLogin>1,2,3,4,5,6,7,8,9,10</excludeNotificationTypesFromBadgeInPreLogin>
@@ -3567,11 +3567,11 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<sendApiLevelForAutoConnectionTPU>true</sendApiLevelForAutoConnectionTPU>
 					<apiLevelforATOnTPU>18.00</apiLevelforATOnTPU>
 					<showUniversalPushNotification>
-                <version from="8.6" value="true"/>
-            </showUniversalPushNotification>
+						<version from="8.6" value="true"/>
+					</showUniversalPushNotification>
 					<enableFilterInNotificationTape>
-                <version from="9.0" value="true"/>
-            </enableFilterInNotificationTape>
+						<version from="9.0" value="true"/>
+					</enableFilterInNotificationTape>
 				</node>
 				<node id="ift-node2.testonline.sberbank.ru">
 					<excludeNotificationTypesFromBadgeInPreLogin>1,2,3,4,5,6,7,8,9,10</excludeNotificationTypesFromBadgeInPreLogin>
@@ -3602,11 +3602,11 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<sendApiLevelForAutoConnectionTPU>true</sendApiLevelForAutoConnectionTPU>
 					<apiLevelforATOnTPU>18.00</apiLevelforATOnTPU>
 					<showUniversalPushNotification>
-                <version from="8.6" value="true"/>
-            </showUniversalPushNotification>
+						<version from="8.6" value="true"/>
+					</showUniversalPushNotification>
 					<enableFilterInNotificationTape>
-                <version from="9.0" value="true"/>
-            </enableFilterInNotificationTape>
+						<version from="9.0" value="true"/>
+					</enableFilterInNotificationTape>
 				</node>
 				<node id="ift-node1-mp.testonline.sberbank.ru">
 					<excludeNotificationTypesFromBadgeInPreLogin>1,2,3,4,5,6,7,8,9,10</excludeNotificationTypesFromBadgeInPreLogin>
@@ -3637,11 +3637,11 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<sendApiLevelForAutoConnectionTPU>true</sendApiLevelForAutoConnectionTPU>
 					<apiLevelforATOnTPU>18.00</apiLevelforATOnTPU>
 					<showUniversalPushNotification>
-                <version from="8.6" value="false"/>
-            </showUniversalPushNotification>
+						<version from="8.6" value="false"/>
+					</showUniversalPushNotification>
 					<enableFilterInNotificationTape>
-                <version from="9.0" value="true"/>
-            </enableFilterInNotificationTape>
+						<version from="9.0" value="true"/>
+					</enableFilterInNotificationTape>
 				</node>
 				<node id="ift-node2-mp.testonline.sberbank.ru">
 					<excludeNotificationTypesFromBadgeInPreLogin>1,2,3,4,5,6,7,8,9,10</excludeNotificationTypesFromBadgeInPreLogin>
@@ -3672,11 +3672,11 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<sendApiLevelForAutoConnectionTPU>true</sendApiLevelForAutoConnectionTPU>
 					<apiLevelforATOnTPU>18.00</apiLevelforATOnTPU>
 					<showUniversalPushNotification>
-                <version from="8.6" value="true"/>
-            </showUniversalPushNotification>
+						<version from="8.6" value="true"/>
+					</showUniversalPushNotification>
 					<enableFilterInNotificationTape>
-                <version from="9.0" value="true"/>
-            </enableFilterInNotificationTape>
+						<version from="9.0" value="true"/>
+					</enableFilterInNotificationTape>
 				</node>
 				<node id="node4.online.sberbank.ru">
 					<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
@@ -3686,12 +3686,12 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<sendApiLevelForAutoConnectionTPU>true</sendApiLevelForAutoConnectionTPU>
 				</node>
 			</nodes>
-			  <filters>
-        <filter name=“Списания” operationTypes=“-, !, (, [, {, }, 0, 1, 2, 3, 4, 5, A2, A3, A4, A5, A6, A7, A8, A9, AA, AB, AC, AD, AE, AU, D2, D6, F, G, K, M, O, R, T”/>
-        <filter name=“Зачисления” operationTypes=“*, #, @, &, ), ], 6, 7, A, A0, A1, B, C, D, D1, D3, D7, E, I, L, N, P, Q, R2, R3, R4, R5, R6, R7, R8, R9, RA, RB, RC, RD, RE, RU, S, U”/>
-        <filter name=“Наличные” operationTypes=“2, D2, B, D5, 4, D, D3”/>
-        <filter name=“Переводы” operationTypes=“A0, A1, A9, AT, AV, M, N, R0, R1, R9, RB, RT, RV, AG, AH, RG, RH”/>
-    </filters>
+			<filters>
+				<filter name="Списания" operationTypes="-, !, (, [, {, }, 0, 1, 2, 3, 4, 5, A2, A3, A4, A5, A6, A7, A8, A9, AA, AB, AC, AD, AE, AU, D2, D6, F, G, K, M, O, R, T"/>
+				<filter name="Зачисления" operationTypes="*, #, @, &amp;, ), ], 6, 7, A, A0, A1, B, C, D, D1, D3, D7, E, I, L, N, P, Q, R2, R3, R4, R5, R6, R7, R8, R9, RA, RB, RC, RD, RE, RU, S, U"/>
+				<filter name="Наличные" operationTypes="2, D2, B, D5, 4, D, D3"/>
+				<filter name="Переводы" operationTypes="A0, A1, A9, AT, AV, M, N, R0, R1, R9, RB, RT, RV, AG, AH, RG, RH"/>
+			</filters>
 		</param>
 		<param name="SberChat" description="Диалог с контактом 900">
 			<type>list</type>
@@ -4286,6 +4286,10 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 					<description>
 Нажимая кнопку "Рассчитать", вы соглашаетесь с условиями
 
+						
+						
+						
+						
 						<a>ПАО Сбербанк</a>
 					</description>
 				</service>
@@ -4296,6 +4300,10 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 					<description>
 Нажимая кнопку "Оформить", вы соглашаетесь с условиями
 
+						
+						
+						
+						
 						<a>ПАО Сбербанк</a>
 					</description>
 				</service>
