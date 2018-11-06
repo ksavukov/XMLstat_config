@@ -3503,7 +3503,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 			<type>list</type>
 			<nodes>
 				<node id="mobile.sberbank.ru">
-					<excludeNotificationTypesFromBadgeInPreLogin>1,2,3,4,5,6,7,8,9,10</excludeNotificationTypesFromBadgeInPreLogin>
+					<excludeNotificationTypesFromBadgeInPreLogin>2,3,4,5,6,7,8,9</excludeNotificationTypesFromBadgeInPreLogin>
 					<doNotContainTPUInBadgeNewNotificationEntryPoint>false</doNotContainTPUInBadgeNewNotificationEntryPoint>
 					<doNotShowOldNotificationEntryPoint>false</doNotShowOldNotificationEntryPoint>
 					<showNewNotificationEntryPoint>true</showNewNotificationEntryPoint>
@@ -3539,7 +3539,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					</enableFilterInNotificationTape>
 				</node>
 				<node id="ift-node1.testonline.sberbank.ru">
-					<excludeNotificationTypesFromBadgeInPreLogin>1,2,3,4,5,6,7,8,9,10</excludeNotificationTypesFromBadgeInPreLogin>
+					<excludeNotificationTypesFromBadgeInPreLogin>2,3,4,5,6,7,8,9</excludeNotificationTypesFromBadgeInPreLogin>
 					<doNotContainTPUInBadgeNewNotificationEntryPoint>false</doNotContainTPUInBadgeNewNotificationEntryPoint>
 					<showNewNotificationEntryPoint>true</showNewNotificationEntryPoint>
 					<showNewNotificationEntryPointWS>true</showNewNotificationEntryPointWS>
@@ -3574,7 +3574,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					</enableFilterInNotificationTape>
 				</node>
 				<node id="ift-node2.testonline.sberbank.ru">
-					<excludeNotificationTypesFromBadgeInPreLogin>1,2,3,4,5,6,7,8,9,10</excludeNotificationTypesFromBadgeInPreLogin>
+					<excludeNotificationTypesFromBadgeInPreLogin>2,3,4,5,6,7,8,9</excludeNotificationTypesFromBadgeInPreLogin>
 					<doNotContainTPUInBadgeNewNotificationEntryPoint>false</doNotContainTPUInBadgeNewNotificationEntryPoint>
 					<showNewNotificationEntryPoint>true</showNewNotificationEntryPoint>
 					<showNewNotificationEntryPointWS>true</showNewNotificationEntryPointWS>
@@ -3609,7 +3609,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					</enableFilterInNotificationTape>
 				</node>
 				<node id="ift-node1-mp.testonline.sberbank.ru">
-					<excludeNotificationTypesFromBadgeInPreLogin>1,2,3,4,5,6,7,8,9,10</excludeNotificationTypesFromBadgeInPreLogin>
+					<excludeNotificationTypesFromBadgeInPreLogin>2,3,4,5,6,7,8,9</excludeNotificationTypesFromBadgeInPreLogin>
 					<doNotContainTPUInBadgeNewNotificationEntryPoint>false</doNotContainTPUInBadgeNewNotificationEntryPoint>
 					<showNewNotificationEntryPoint>false</showNewNotificationEntryPoint>
 					<showNewNotificationEntryPointWS>false</showNewNotificationEntryPointWS>
@@ -3644,7 +3644,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					</enableFilterInNotificationTape>
 				</node>
 				<node id="ift-node2-mp.testonline.sberbank.ru">
-					<excludeNotificationTypesFromBadgeInPreLogin>1,2,3,4,5,6,7,8,9,10</excludeNotificationTypesFromBadgeInPreLogin>
+					<excludeNotificationTypesFromBadgeInPreLogin>2,3,4,5,6,7,8,9</excludeNotificationTypesFromBadgeInPreLogin>
 					<doNotContainTPUInBadgeNewNotificationEntryPoint>false</doNotContainTPUInBadgeNewNotificationEntryPoint>
 					<showNewNotificationEntryPoint>true</showNewNotificationEntryPoint>
 					<showNewNotificationEntryPointWS>true</showNewNotificationEntryPointWS>
@@ -3691,6 +3691,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 				<filter name="Зачисления" operationTypes="*, #, @, &amp;, ), ], 6, 7, A, A0, A1, B, C, D, D1, D3, D7, E, I, L, N, P, Q, R2, R3, R4, R5, R6, R7, R8, R9, RA, RB, RC, RD, RE, RU, S, U"/>
 				<filter name="Наличные" operationTypes="2, D2, B, D5, 4, D, D3"/>
 				<filter name="Переводы" operationTypes="A0, A1, A9, AT, AV, M, N, R0, R1, R9, RB, RT, RV, AG, AH, RG, RH"/>
+				<filter name="Кокой-то фильтр" operationTypes="ZQ"/>
 			</filters>
 		</param>
 		<param name="SberChat" description="Диалог с контактом 900">
