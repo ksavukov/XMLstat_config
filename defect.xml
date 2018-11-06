@@ -3619,7 +3619,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<alternativePushSettingTexts>true</alternativePushSettingTexts>
 					<pushPreEnrichment>false</pushPreEnrichment>
 					<updateTokenForegroundService>true</updateTokenForegroundService>
-					<showSmsTextInCuteCheque>false</showSmsTextInCuteCheque>
+					<showSmsTextInCuteCheque>true</showSmsTextInCuteCheque>
 					<newNotificationDesign>false</newNotificationDesign>
 					<showCuteChequeWithoutMerchantName>false</showCuteChequeWithoutMerchantName>
 					<requestPermissionToReadSMS>
