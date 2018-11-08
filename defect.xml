@@ -3537,6 +3537,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<enableFilterInNotificationTape>
 						<version from="9.0" value="true"/>
 					</enableFilterInNotificationTape>
+					<enableButtonBackToNotificationListFromCuteCheque>true</enableButtonBackToNotificationListFromCuteCheque>
 				</node>
 				<node id="ift-node1.testonline.sberbank.ru">
 					<excludeNotificationTypesFromBadgeInPreLogin>2,3,4,5,6,7,8,9</excludeNotificationTypesFromBadgeInPreLogin>
@@ -3572,6 +3573,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<enableFilterInNotificationTape>
 						<version from="9.0" value="true"/>
 					</enableFilterInNotificationTape>
+					<enableButtonBackToNotificationListFromCuteCheque>true</enableButtonBackToNotificationListFromCuteCheque>
 				</node>
 				<node id="ift-node2.testonline.sberbank.ru">
 					<excludeNotificationTypesFromBadgeInPreLogin>2,3,4,5,6,7,8,9</excludeNotificationTypesFromBadgeInPreLogin>
@@ -3607,6 +3609,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<enableFilterInNotificationTape>
 						<version from="9.0" value="true"/>
 					</enableFilterInNotificationTape>
+					<enableButtonBackToNotificationListFromCuteCheque>true</enableButtonBackToNotificationListFromCuteCheque>
 				</node>
 				<node id="ift-node1-mp.testonline.sberbank.ru">
 					<excludeNotificationTypesFromBadgeInPreLogin>2,3,4,5,6,7,8,9</excludeNotificationTypesFromBadgeInPreLogin>
@@ -3642,6 +3645,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<enableFilterInNotificationTape>
 						<version from="9.0" value="true"/>
 					</enableFilterInNotificationTape>
+					<enableButtonBackToNotificationListFromCuteCheque>true</enableButtonBackToNotificationListFromCuteCheque>
 				</node>
 				<node id="ift-node2-mp.testonline.sberbank.ru">
 					<excludeNotificationTypesFromBadgeInPreLogin>2,3,4,5,6,7,8,9</excludeNotificationTypesFromBadgeInPreLogin>
@@ -3677,6 +3681,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<enableFilterInNotificationTape>
 						<version from="9.0" value="true"/>
 					</enableFilterInNotificationTape>
+					<enableButtonBackToNotificationListFromCuteCheque>true</enableButtonBackToNotificationListFromCuteCheque>
 				</node>
 				<node id="node4.online.sberbank.ru">
 					<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
