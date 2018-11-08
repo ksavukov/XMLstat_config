@@ -3537,6 +3537,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<enableFilterInNotificationTape>
 						<version from="9.0" value="true"/>
 					</enableFilterInNotificationTape>
+					<enableShortcutNotifications>true</enableShortcutNotifications>
 					<enableButtonBackToNotificationListFromCuteCheque>true</enableButtonBackToNotificationListFromCuteCheque>
 				</node>
 				<node id="ift-node1.testonline.sberbank.ru">
@@ -3573,6 +3574,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<enableFilterInNotificationTape>
 						<version from="9.0" value="true"/>
 					</enableFilterInNotificationTape>
+					<enableShortcutNotifications>true</enableShortcutNotifications>
 					<enableButtonBackToNotificationListFromCuteCheque>true</enableButtonBackToNotificationListFromCuteCheque>
 				</node>
 				<node id="ift-node2.testonline.sberbank.ru">
@@ -3609,6 +3611,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<enableFilterInNotificationTape>
 						<version from="9.0" value="true"/>
 					</enableFilterInNotificationTape>
+					<enableShortcutNotifications>true</enableShortcutNotifications>
 					<enableButtonBackToNotificationListFromCuteCheque>true</enableButtonBackToNotificationListFromCuteCheque>
 				</node>
 				<node id="ift-node1-mp.testonline.sberbank.ru">
@@ -3645,6 +3648,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<enableFilterInNotificationTape>
 						<version from="9.0" value="true"/>
 					</enableFilterInNotificationTape>
+					<enableShortcutNotifications>true</enableShortcutNotifications>
 					<enableButtonBackToNotificationListFromCuteCheque>true</enableButtonBackToNotificationListFromCuteCheque>
 				</node>
 				<node id="ift-node2-mp.testonline.sberbank.ru">
@@ -3681,6 +3685,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<enableFilterInNotificationTape>
 						<version from="9.0" value="true"/>
 					</enableFilterInNotificationTape>
+					<enableShortcutNotifications>true</enableShortcutNotifications>
 					<enableButtonBackToNotificationListFromCuteCheque>true</enableButtonBackToNotificationListFromCuteCheque>
 				</node>
 				<node id="node4.online.sberbank.ru">
