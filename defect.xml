@@ -3506,7 +3506,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 					<excludeNotificationTypesFromBadgeInPreLogin>2,3,4,5,6,7,8,9</excludeNotificationTypesFromBadgeInPreLogin>
 					<doNotContainTPUInBadgeNewNotificationEntryPoint>false</doNotContainTPUInBadgeNewNotificationEntryPoint>
 					<doNotShowOldNotificationEntryPoint>false</doNotShowOldNotificationEntryPoint>
-					<showNewNotificationEntryPoint>true</showNewNotificationEntryPoint>
+					<showNewNotificationEntryPoint>false</showNewNotificationEntryPoint>
 					<showNewNotificationEntryPointWS>true</showNewNotificationEntryPointWS>
 					<newFailedOperationDesign>true</newFailedOperationDesign>
 					<showOperationTypeInTPU>true</showOperationTypeInTPU>
