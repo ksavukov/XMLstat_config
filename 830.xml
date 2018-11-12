@@ -2173,7 +2173,7 @@ The entered ID is already in use in the system. Enter a different value
 <type>list</type>
 <enabled>true</enabled>
 <nodes>
-<node id="node0.online.sberbank.ru">
+<node id="node4.online.sberbank.ru">
 <coreQR>false</coreQR>
 <SBTelecom>true</SBTelecom>
 <CreditRating>false</CreditRating>
