@@ -1783,7 +1783,7 @@ The entered ID is already in use in the system. Enter a different value
 <FastLoginApp>true</FastLoginApp>
 <productNavigationBarMod>3</productNavigationBarMod>
 </node>
-<node id="greenfield2.online.sberbank.ru">
+<node id="node4.online.sberbank.ru">
 <coreQR>true</coreQR>
 <SBTelecom>true</SBTelecom>
 <CreditRating>false</CreditRating>
@@ -4406,7 +4406,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <pushHistoryHeadBatchSize>10</pushHistoryHeadBatchSize>
 <pushHistoryScrollBatchSize>10</pushHistoryScrollBatchSize>
 <nodes>
-<node id="greenfield0.online.sberbank.ru">
+<node id="node4.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
