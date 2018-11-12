@@ -4420,6 +4420,62 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 </node>
+<node id="node1.online.sberbank.ru">
+<buttonToPostLogin>true</buttonToPostLogin>
+<pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
+<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
+<TurnOffOperationPush>true</TurnOffOperationPush>
+<pushLogoTypeUsing>true</pushLogoTypeUsing>
+<pushHistoryRequest>true</pushHistoryRequest>
+<forcedHistoryQuery>true</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
+<showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
+<showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
+<newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
+</node>
+<node id="node2.online.sberbank.ru">
+<buttonToPostLogin>true</buttonToPostLogin>
+<pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
+<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
+<TurnOffOperationPush>true</TurnOffOperationPush>
+<pushLogoTypeUsing>true</pushLogoTypeUsing>
+<pushHistoryRequest>true</pushHistoryRequest>
+<forcedHistoryQuery>true</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
+<showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
+<showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
+<newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
+</node>
+<node id="node3.online.sberbank.ru">
+<buttonToPostLogin>true</buttonToPostLogin>
+<pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
+<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
+<TurnOffOperationPush>true</TurnOffOperationPush>
+<pushLogoTypeUsing>true</pushLogoTypeUsing>
+<pushHistoryRequest>true</pushHistoryRequest>
+<forcedHistoryQuery>true</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
+<showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
+<showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
+<newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
+</node>
+<node id="node5.online.sberbank.ru">
+<buttonToPostLogin>true</buttonToPostLogin>
+<pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
+<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
+<TurnOffOperationPush>true</TurnOffOperationPush>
+<pushLogoTypeUsing>true</pushLogoTypeUsing>
+<pushHistoryRequest>true</pushHistoryRequest>
+<forcedHistoryQuery>true</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
+<showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
+<showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
+<newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
+</node>
 <node id="greenfield1.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
