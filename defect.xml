@@ -6494,7 +6494,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 <pushHistoryRequest>true</pushHistoryRequest>
 <forcedHistoryQuery>false</forcedHistoryQuery>
-<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
+<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -6510,7 +6510,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 <pushHistoryRequest>true</pushHistoryRequest>
 <forcedHistoryQuery>false</forcedHistoryQuery>
-<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
+<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 </nodes>
 <bestActions>
