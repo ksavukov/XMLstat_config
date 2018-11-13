@@ -6493,7 +6493,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 <pushHistoryRequest>true</pushHistoryRequest>
-<forcedHistoryQuery>true</forcedHistoryQuery>
+<forcedHistoryQuery>false</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
