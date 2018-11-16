@@ -6500,6 +6500,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
+<showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -6517,6 +6518,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
+<showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 </node>
 </nodes>
 <bestActions>
