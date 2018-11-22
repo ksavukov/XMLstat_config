@@ -6433,7 +6433,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <MFMSMessageRequestType>2</MFMSMessageRequestType> 
-<showUniversalPushNotification>true</showUniversalPushNotification>
+<showUniversalPushNotification>false</showUniversalPushNotification>
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -6447,7 +6447,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <MFMSMessageRequestType>2</MFMSMessageRequestType>
-<showUniversalPushNotification>true</showUniversalPushNotification>
+<showUniversalPushNotification>false</showUniversalPushNotification>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -6464,7 +6464,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <MFMSMessageRequestType>2</MFMSMessageRequestType> 
-<showUniversalPushNotification>true</showUniversalPushNotification>
+<showUniversalPushNotification>false</showUniversalPushNotification>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -6481,7 +6481,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <MFMSMessageRequestType>2</MFMSMessageRequestType>
-<showUniversalPushNotification>true</showUniversalPushNotification>
+<showUniversalPushNotification>false</showUniversalPushNotification>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -6499,7 +6499,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 <MFMSMessageRequestType>2</MFMSMessageRequestType> 
-<showUniversalPushNotification>true</showUniversalPushNotification>
+<showUniversalPushNotification>false</showUniversalPushNotification>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -6517,7 +6517,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 <MFMSMessageRequestType>2</MFMSMessageRequestType> 
-<showUniversalPushNotification>true</showUniversalPushNotification>
+<showUniversalPushNotification>false</showUniversalPushNotification>
 </node>
 </nodes>
 <bestActions>
