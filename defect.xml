@@ -6412,7 +6412,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
-<MessagesWithExpired>false</MessagesWithExpired>
+<MessagesWithExpired>true</MessagesWithExpired>
 <showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
@@ -6424,7 +6424,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
-<MessagesWithExpired>false</MessagesWithExpired>
+<MessagesWithExpired>true</MessagesWithExpired>
 <showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
@@ -6440,7 +6440,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
-<MessagesWithExpired>false</MessagesWithExpired>
+<MessagesWithExpired>true</MessagesWithExpired>
 <showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
@@ -6453,7 +6453,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
-<MessagesWithExpired>false</MessagesWithExpired>
+<MessagesWithExpired>true</MessagesWithExpired>
 <showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
@@ -6469,7 +6469,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
-<MessagesWithExpired>false</MessagesWithExpired>
+<MessagesWithExpired>true</MessagesWithExpired>
 <showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
@@ -6485,7 +6485,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
-<MessagesWithExpired>false</MessagesWithExpired>
+<MessagesWithExpired>true</MessagesWithExpired>
 <showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
@@ -6502,7 +6502,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
-<MessagesWithExpired>false</MessagesWithExpired>
+<MessagesWithExpired>true</MessagesWithExpired>
 <showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
