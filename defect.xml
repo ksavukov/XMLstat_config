@@ -6416,6 +6416,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
+<MFMSMessageRequestType>0</MFMSMessageRequestType> 
 </node>
 <node id="mobile.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -6431,6 +6432,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
+<MFMSMessageRequestType>0</MFMSMessageRequestType> 
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -6443,6 +6445,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
+<MFMSMessageRequestType>0</MFMSMessageRequestType> 
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -6458,6 +6461,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
+<MFMSMessageRequestType>0</MFMSMessageRequestType> 
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -6473,6 +6477,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
+<MFMSMessageRequestType>0</MFMSMessageRequestType> 
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -6489,6 +6494,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
+<MFMSMessageRequestType>0</MFMSMessageRequestType> 
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -6505,6 +6511,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <showNewAttributesInPushContent>true</showNewAttributesInPushContent>
+<MFMSMessageRequestType>0</MFMSMessageRequestType> 
 </node>
 </nodes>
 <bestActions>
