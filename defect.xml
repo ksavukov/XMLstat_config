@@ -6421,7 +6421,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <node id="mobile.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<NotificationSettingsOwn>false</NotificationSettingsOwn>
+<NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>false</autoTurnOffOperationPush>
 <TurnOffOperationPush>false</TurnOffOperationPush>
 <showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
