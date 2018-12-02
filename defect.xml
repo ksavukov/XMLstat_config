@@ -6300,7 +6300,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryHeadBatchSize>50</pushHistoryHeadBatchSize>
 <pushHistoryScrollBatchSize>50</pushHistoryScrollBatchSize>
 <nodes>
-<node id="mobile.sberbank.ru">
+<node id="greenfield0.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>1</MFMSMessageRequestType>
@@ -6429,8 +6429,8 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 <pushHistoryRequest>true</pushHistoryRequest>
-<forcedHistoryQuery>true</forcedHistoryQuery>
-<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<forcedHistoryQuery>false</forcedHistoryQuery>
+<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <MFMSMessageRequestType>2</MFMSMessageRequestType> 
 <showUniversalPushNotification>false</showUniversalPushNotification>
