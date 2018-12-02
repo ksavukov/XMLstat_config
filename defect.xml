@@ -2125,7 +2125,7 @@ The entered ID is already in use in the system. Enter a different value
 <param name="900Permissions" description="">
 <type>list</type>
 <pushAlertTimeInterval>86400</pushAlertTimeInterval>
-<efsMobileBank>true</efsMobileBank>
+<efsMobileBank>false</efsMobileBank>
 <nodes>
 <node id="ift-node1.testonline.sberbank.ru">
 <efsMobileBank>true</efsMobileBank>
