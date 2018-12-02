@@ -6423,7 +6423,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>false</autoTurnOffOperationPush>
-<TurnOffOperationPush>true</TurnOffOperationPush>
+<TurnOffOperationPush>false</TurnOffOperationPush>
 <showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
