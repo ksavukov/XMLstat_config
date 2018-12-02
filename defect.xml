@@ -6314,7 +6314,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 <pushHistoryRequest>true</pushHistoryRequest>
 <forcedHistoryQuery>false</forcedHistoryQuery>
-<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 </node>
 <node id="greenfield1.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
