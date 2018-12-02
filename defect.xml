@@ -6428,8 +6428,8 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
 <showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
-<pushHistoryRequest>true</pushHistoryRequest>
-<forcedHistoryQuery>false</forcedHistoryQuery>
+<pushHistoryRequest>false</pushHistoryRequest>
+<forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <MFMSMessageRequestType>2</MFMSMessageRequestType> 
