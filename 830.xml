@@ -7126,6 +7126,8 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <enabled>true</enabled>
 </param>
 <param name="PushPermissions" description="единый стек параметров для push">
+<pushHistoryHeadBatchSize>30</pushHistoryHeadBatchSize> 
+<pushHistoryScrollBatchSize>15</pushHistoryScrollBatchSize>
 <type>list</type>
 <nodes>
 <node id="greenfield0.online.sberbank.ru">
@@ -7271,7 +7273,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showAlertBeforeTPUDisable>true</showAlertBeforeTPUDisable>
 <showUniversalPushNotification>true</showUniversalPushNotification>
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
-<forcedHistoryQuery>false<forcedHistoryQuery> 
+<forcedHistoryQuery>true<forcedHistoryQuery> 
 <forcedHistoryQueryIfNoHistory>true<forcedHistoryQueryIfNoHistory> 
 </node>
 <node id="194.186.207.23">
