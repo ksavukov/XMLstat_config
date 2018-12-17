@@ -7259,7 +7259,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
 </node>
 <node id="mobile.sberbank.ru">
-<buttonToPostLogin>true</buttonToPostLogin>
+<buttonToPostLogin>false</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>2</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
