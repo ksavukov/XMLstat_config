@@ -7626,7 +7626,6 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 </nodes>
 <bestActions>
 <actions>
-<bestActions name="Перевод клиенту Сбербанка" link="sberbankonline://payments/p2p-by-card-number"/>
 <bestActions name="Перевод клиенту Сбербанка" link="sberbankonline://payments/p2p-by-phone-number"/>
 <bestActions name="ЖКХ и домашний телефон" link="sberbankonline://payments/jkh"/>
 <bestActions name="Мобильная связь" link="sberbankonline://payments/mobile-phone"/>
