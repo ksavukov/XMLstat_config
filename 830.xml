@@ -7508,22 +7508,6 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showUniversalPushNotification>true</showUniversalPushNotification>
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
 </node>
-<node id="psinode1.testonline.sberbank.ru">
-<buttonToPostLogin>true</buttonToPostLogin>
-<pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
-<NotificationSettingsOwn>true</NotificationSettingsOwn>
-<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
-<TurnOffOperationPush>true</TurnOffOperationPush>
-<MessagesWithExpired>true</MessagesWithExpired>
-<showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
-<showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
-<showNotificationEntryPointTargetTapPostlogin>true</showNotificationEntryPointTargetTapPostlogin>
-<newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
-<showAlertBeforeTPUDisable>true</showAlertBeforeTPUDisable>
-<showUniversalPushNotification>true</showUniversalPushNotification>
-<getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
-</node>
 <node id="mobile.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
@@ -7540,7 +7524,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showUniversalPushNotification>true</showUniversalPushNotification>
 <webUrlInUniversalPushNotification>true</webUrlInUniversalPushNotification>
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
-<newPushProcessingEnabled>true</newPushProcessingEnabled>
+<newPushProcessingEnabled>false</newPushProcessingEnabled>
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
