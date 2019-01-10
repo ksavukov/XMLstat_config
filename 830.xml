@@ -7525,6 +7525,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <webUrlInUniversalPushNotification>true</webUrlInUniversalPushNotification>
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
 <newPushProcessingEnabled>true</newPushProcessingEnabled>
+<PUSHNewProcessingPushes>true</PUSHNewProcessingPushes>
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
