@@ -7395,6 +7395,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 </param>
 <param name="PushPermissions" description="единый стек параметров для push">
 <type>list</type>
+<newPushProcessingEnabled>true</newPushProcessingEnabled>
 <nodes>
 <node id="greenfield0.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -7524,7 +7525,6 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showUniversalPushNotification>true</showUniversalPushNotification>
 <webUrlInUniversalPushNotification>true</webUrlInUniversalPushNotification>
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
-<newPushProcessingEnabled>true</newPushProcessingEnabled>
 <PUSHNewProcessingPushes>true</PUSHNewProcessingPushes>
 </node>
 <node id="194.186.207.23">
