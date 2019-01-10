@@ -7393,6 +7393,11 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <type>setting</type>
 <enabled>true</enabled>
 </param>
+ <param name="NotificationsEnableSuggestion" description="">            
+    <type>setting</type>            
+    <enabled>true</enabled>
+    <periodInDays>7</periodInDays 
+</param>
 <param name="PushPermissions" description="единый стек параметров для push">
 <type>list</type>
 <newPushProcessingEnabled>true</newPushProcessingEnabled>
