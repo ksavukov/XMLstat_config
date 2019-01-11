@@ -7531,6 +7531,8 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <webUrlInUniversalPushNotification>true</webUrlInUniversalPushNotification>
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
 <newPushProccessing>true</newPushProccessing>
+<cardNotificationWithSenderNameAndComment>true</cardNotificationWithSenderNameAndComment> 
+<routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled> 
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
