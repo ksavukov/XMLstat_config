@@ -7528,7 +7528,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <newRejectAuthorizeAlert>true</newRejectAuthorizeAlert>
 <showAlertBeforeTPUDisable>true</showAlertBeforeTPUDisable>
 <showUniversalPushNotification>true</showUniversalPushNotification>
-<webUrlInUniversalPushNotification>true</webUrlInUniversalPushNotification>
+<webUrlInUniversalPushNotification>false</webUrlInUniversalPushNotification>
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
 <newPushProccessing>true</newPushProccessing>
 <cardNotificationWithSenderNameAndComment>true</cardNotificationWithSenderNameAndComment> 
