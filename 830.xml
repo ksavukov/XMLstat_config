@@ -7530,7 +7530,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showUniversalPushNotification>true</showUniversalPushNotification>
 <webUrlInUniversalPushNotification>false</webUrlInUniversalPushNotification>
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
-<newPushProccessing>true</newPushProccessing>
+<newPushProccessing>false</newPushProccessing>
 <cardNotificationWithSenderNameAndComment>true</cardNotificationWithSenderNameAndComment> 
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled> 
 </node>
