@@ -1162,6 +1162,10 @@ http://sberbank.ru/common/img/uploaded/files/pdf/Rukovodstvo_polzovatelya_iPhone
 <receiverAccount>40703810238000004230</receiverAccount>
 </receiver>
 </param>
+<param name="showCorporateCard" description="Глобальный рубильник показа корпортаивных карт">
+<type>setting</type>
+<enabled>true</enabled>
+</param>
 <param name="charity_text" description="Текст при попытке оплаты благотворительного ПУ">
 <type>strings</type>
 <strings>
@@ -8319,6 +8323,8 @@ https: //nginx-ios.ift-node5.testonline.sberbank.ru/
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <UsePushAutoDisable>true</UsePushAutoDisable>
+<reactivateMainPushNotifications>true</reactivateMainPushNotifications>  
+<hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>  
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -8407,6 +8413,8 @@ https: //nginx-ios.ift-node5.testonline.sberbank.ru/
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <UsePushAutoDisable>true</UsePushAutoDisable>
+<reactivateMainPushNotifications>true</reactivateMainPushNotifications>  
+<hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>  
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -8429,6 +8437,8 @@ https: //nginx-ios.ift-node5.testonline.sberbank.ru/
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <UsePushAutoDisable>true</UsePushAutoDisable>
+<reactivateMainPushNotifications>true</reactivateMainPushNotifications>  
+<hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>  
 </node>
 </nodes>
 <bestActions>
@@ -8495,31 +8505,31 @@ https: //nginx-ios.ift-node5.testonline.sberbank.ru/
 <enabled>false</enabled>
 <nodes>
 <node id="greenfield1.online.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="greenfield2.online.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="mobile.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <enabled>false</enabled>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <enabled>false</enabled>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="psinode2.testonline.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="psinode1.testonline.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="194.186.207.23">
 <enabled>false</enabled>
@@ -8798,7 +8808,7 @@ https://stat.online.sberbank.ru/PhizIC-res/IMG/PU/20/63/61/2b26d928c6b985710071f
 <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 <mobileBankChangePhone>true</mobileBankChangePhone>
-<FullTariffTurnOffEnabled>false</FullTariffTurnOffEnabled>
+<FullTariffTurnOffEnabled>true</FullTariffTurnOffEnabled>
 <ShowNotificationTerm>true</ShowNotificationTerm>
 </node>
 <node id="194.186.207.23">
@@ -8830,7 +8840,7 @@ https://stat.online.sberbank.ru/PhizIC-res/IMG/PU/20/63/61/2b26d928c6b985710071f
 <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 <mobileBankChangePhone>true</mobileBankChangePhone>
-<FullTariffTurnOffEnabled>false</FullTariffTurnOffEnabled>
+<FullTariffTurnOffEnabled>true</FullTariffTurnOffEnabled>
 <ShowNotificationTerm>true</ShowNotificationTerm>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
@@ -9019,32 +9029,32 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <increaseLimitEnabled>true</increaseLimitEnabled>
 <nodes>
 <node id="node0.online.sberbank.ru">
-<enabled>false</enabled>
-<increaseLimitEnabled>false</increaseLimitEnabled>
+<enabled>true</enabled>
+<increaseLimitEnabled>true</increaseLimitEnabled>
 </node>
 <node id="node1.online.sberbank.ru">
-<enabled>false</enabled>
+<enabled>true</enabled>
 <increaseLimitEnabled>true</increaseLimitEnabled>
 </node>
 <node id="node2.online.sberbank.ru">
-<enabled>false</enabled>
-<increaseLimitEnabled>false</increaseLimitEnabled>
+<enabled>true</enabled>
+<increaseLimitEnabled>true</increaseLimitEnabled>
 </node>
 <node id="node3.online.sberbank.ru">
-<enabled>false</enabled>
-<increaseLimitEnabled>false</increaseLimitEnabled>
+<enabled>true</enabled>
+<increaseLimitEnabled>true</increaseLimitEnabled>
 </node>
 <node id="greenfield1.online.sberbank.ru">
 <enabled>true</enabled>
-<increaseLimitEnabled>false</increaseLimitEnabled>
+<increaseLimitEnabled>true</increaseLimitEnabled>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <enabled>true</enabled>
-<increaseLimitEnabled>false</increaseLimitEnabled>
+<increaseLimitEnabled>true</increaseLimitEnabled>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <enabled>true</enabled>
-<increaseLimitEnabled>false</increaseLimitEnabled>
+<increaseLimitEnabled>true</increaseLimitEnabled>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <enabled>true</enabled>
@@ -9054,9 +9064,13 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <enabled>true</enabled>
 <increaseLimitEnabled>true</increaseLimitEnabled>
 </node>
+<node id="ift-node4-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
+<increaseLimitEnabled>true</increaseLimitEnabled>
+</node>
 <node id="psinode2.testonline.sberbank.ru">
 <enabled>true</enabled>
-<increaseLimitEnabled>false</increaseLimitEnabled>
+<increaseLimitEnabled>true</increaseLimitEnabled>
 </node>
 <node id="psinode1.testonline.sberbank.ru">
 <enabled>true</enabled>
@@ -9480,6 +9494,22 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/oferta_western_union.pdf
 <enabled>true</enabled>
 </node>
 </nodes>
+</param>
+<param name="ChangeVisibilityProduct" description="Частичное скрытие продукта">
+<type>setting</type>
+<enabled>true</enabled>
+</param>
+<param name="gsHideDeposits" description="Полное скрытие депозитов">
+<type>setting</type>
+<enabled>true</enabled>
+</param>
+<param name="gsHideIMs" description="Полное скрытие металлических счетов">
+<type>setting</type>
+<enabled>true</enabled>
+</param>
+<param name="gsHideProducts" description="Полное скрытие карт">
+<type>setting</type>
+<enabled>true</enabled>
 </param>
 </params>
 </configuration>
