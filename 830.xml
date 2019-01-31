@@ -8413,8 +8413,8 @@ https: //nginx-ios.ift-node5.testonline.sberbank.ru/
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <UsePushAutoDisable>true</UsePushAutoDisable>
-<reactivateMainPushNotifications>true</reactivateMainPushNotifications>  
-<hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>  
+<reactivateMainPushNotifications>false</reactivateMainPushNotifications>  
+<hideMainPushNotificationsSwitcher>false</hideMainPushNotificationsSwitcher>  
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
