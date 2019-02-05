@@ -1,4 +1,4 @@
-<configuration>
+hideMainPushNotificationsSwitche<configuration>
 <params>
 <param name="CreditReportService" description="Отчет о кредитной истории">
 <type>setting</type>
@@ -8323,8 +8323,8 @@ https: //nginx-ios.ift-node5.testonline.sberbank.ru/
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <UsePushAutoDisable>true</UsePushAutoDisable>
-<reactivateMainPushNotifications>true</reactivateMainPushNotifications>  
-<hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>  
+<reactivateMainPushNotifications>false</reactivateMainPushNotifications>  
+<hideMainPushNotificationsSwitcher>false</hideMainPushNotificationsSwitcher>  
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
