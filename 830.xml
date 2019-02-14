@@ -8398,7 +8398,7 @@ https: //nginx-ios.ift-node5.testonline.sberbank.ru/
 <MFMSMessageRequestType>2</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
-<TurnOffOperationPush>true</TurnOffOperationPush>
+<TurnOffOperationPush>false</TurnOffOperationPush>
 <MessagesWithExpired>true</MessagesWithExpired>
 <showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
@@ -8422,7 +8422,7 @@ https: //nginx-ios.ift-node5.testonline.sberbank.ru/
 <MFMSMessageRequestType>2</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
-<TurnOffOperationPush>true</TurnOffOperationPush>
+<TurnOffOperationPush>false</TurnOffOperationPush>
 <MessagesWithExpired>true</MessagesWithExpired>
 <showBestActionsInCuteCheque>true</showBestActionsInCuteCheque>
 <showNotificationEntryPointTargetTapPrelogin>true</showNotificationEntryPointTargetTapPrelogin>
