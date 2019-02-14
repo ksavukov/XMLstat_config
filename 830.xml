@@ -5500,7 +5500,7 @@ https: //nginx-ios.ift-node5.testonline.sberbank.ru/
 </param>
 <param name="StaticSourceMerchantPics" description="статресурс для логотипов">
 <type>source</type>
-<link>https://pfm-stat.online.sberbank.ru/PFM/logos/</link>
+<link>https://pfm-stt.oine.sbeank</link>
 </param>
 <param name="CarLoanRequest" description="Заявка на автокредит с версии 9.3">
 <type>setting</type>
