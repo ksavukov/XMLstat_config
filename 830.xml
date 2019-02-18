@@ -8307,7 +8307,7 @@ https: //nginx-ios.ift-node5.testonline.sberbank.ru/
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>2</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
-<autoTurnOffOperationPush>true</autoTurnOffOperationPush>
+<autoTurnOffOperationPush>false</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <MessagesWithExpired>true</MessagesWithExpired>
 <showBestActionsInCuteCheque>false</showBestActionsInCuteCheque>
