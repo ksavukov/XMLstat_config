@@ -14,6 +14,39 @@
 <type>setting</type>
 <enabled>true</enabled>
 </param>
+<param name="AUPAutorepaymentTutorial" description="Таргер тап Автопогашение">
+<type>setting</type>
+<enabled>true</enabled>
+<nodes>
+<node id="node0.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node1.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node2.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node3.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node4.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="greenfield1.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="greenfield2.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru" description="Стенд ИФТ блок 1 (мобильный)">
+<enabled>true</enabled>
+</node>
+<node id="mobile.sberbank.ru" description="Стенд ПСИ">
+<enabled>true</enabled>
+</node>
+</nodes>
+</param>
 <param name="Loyalty" description="Программа лояльности «Спасибо от Сбербанка»">
 <type>list</type>
 <enabled>true</enabled>
@@ -1536,7 +1569,7 @@ The entered ID is already in use in the system. Enter a different value
 https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 </MessengerNewYearPostcardURL>
 <MessengerNewYearPostcardText>Новый год — время чудес! Делитесь счастьем!</MessengerNewYearPostcardText>
-<MessengerGiftsDefaultPostcardId>NewYear1</MessengerGiftsDefaultPostcardId>
+<MessengerGiftsDefaultPostcardId>giftpostcard</MessengerGiftsDefaultPostcardId>
 <MessengerGiftsDefaultPostcardExtension>mp4</MessengerGiftsDefaultPostcardExtension>
 <nodes>
 <node id="node0.online.sberbank.ru">
@@ -1551,6 +1584,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcard>true</MessengerVoicePostcard>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1579,6 +1613,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcard>true</MessengerVoicePostcard>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1607,6 +1642,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcard>true</MessengerVoicePostcard>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1635,6 +1671,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcard>true</MessengerVoicePostcard>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1663,6 +1700,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcard>true</MessengerVoicePostcard>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1691,6 +1729,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcard>true</MessengerVoicePostcard>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1719,6 +1758,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcard>true</MessengerVoicePostcard>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1747,6 +1787,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcard>true</MessengerVoicePostcard>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1775,6 +1816,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcard>true</MessengerVoicePostcard>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1803,6 +1845,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcard>true</MessengerVoicePostcard>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1831,6 +1874,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcard>true</MessengerVoicePostcard>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1859,6 +1903,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcard>true</MessengerVoicePostcard>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -3177,7 +3222,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <authBlockingScreen>true</authBlockingScreen>
 <PrintAutoSubscriptionTutorialCheck>true</PrintAutoSubscriptionTutorialCheck>
 <balanceFromPush>true</balanceFromPush>
-<PaymentsRequisiteGroupingEnabled>true</PaymentsRequisiteGroupingEnabled>
+<PaymentsRequisiteGroupingEnabled>false</PaymentsRequisiteGroupingEnabled>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <coreQR>true</coreQR>
@@ -4028,7 +4073,7 @@ https://www.sberbank.ru/ru/person/help-center/bankrupt
 </node>
 <node id="greenfield1.online.sberbank.ru">
 <extendedPermissionEnabled>true</extendedPermissionEnabled>
-<disabledPermissions>true</disabledPermissions>
+<disabledPermissions>false</disabledPermissions>
 </node>
 <node id="greenfield2.online.sberbank.ru">
 <extendedPermissionEnabled>true</extendedPermissionEnabled>
@@ -4036,7 +4081,7 @@ https://www.sberbank.ru/ru/person/help-center/bankrupt
 </node>
 <node id="node0.online.sberbank.ru">
 <extendedPermissionEnabled>true</extendedPermissionEnabled>
-<disabledPermissions>true</disabledPermissions>
+<disabledPermissions>false</disabledPermissions>
 </node>
 <node id="node1.online.sberbank.ru">
 <extendedPermissionEnabled>true</extendedPermissionEnabled>
@@ -4133,6 +4178,9 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/policy.pdf
 <description>На выгодных условиях</description>
 <backgroundColor>0xF1F3FC</backgroundColor>
 </depositPromoBanner>
+</param>
+<param name="iOSPlatform" description="Парамтеры iOS Platform">
+<loaderRequestAdapterEnabled>true</loaderRequestAdapterEnabled>
 </param>
 <param name="geoservice" description="Настройка URL гео-сервисов для блоков">
 <type>list</type>
@@ -5644,7 +5692,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 </param>
 <param name="CarLoansRus" description="Ввод марок/моделей на русском">
 <type>setting</type>
-<enabled>true</enabled>
+<enabled>false</enabled>
 </param>
 <param name="CarLoansAutoPay" description="Доступность автоплатежа из детализации АК">
 <type>setting</type>
@@ -6317,7 +6365,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 </param>
 <param name="ExternalTopUp" description="P2P Пополнение карты клиента с карты стороннего банка">
 <type>service</type>
-<enabled>true</enabled>
+<enabled>false</enabled>
 <nodes>
 <node id="node0.online.sberbank.ru">
 <enabled>true</enabled>
@@ -6335,6 +6383,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <enabled>true</enabled>
 </node>
 <node id="mobile.sberbank.ru">
+ <!-- "Главный" стенд (ПСИ) -->
 <enabled>true</enabled>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
@@ -6347,12 +6396,6 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <enabled>true</enabled>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
-<enabled>true</enabled>
-</node>
-<node id="psinode2.testonline.sberbank.ru">
-<enabled>true</enabled>
-</node>
-<node id="psinode1.testonline.sberbank.ru">
 <enabled>true</enabled>
 </node>
 <node id="194.186.207.23">
@@ -8691,7 +8734,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="mobile.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8703,7 +8746,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <showAlertBeforeTPUDisable>true</showAlertBeforeTPUDisable>
 <showUniversalPushNotification>true</showUniversalPushNotification>
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
-<nativePushProcessingEnabled>false</nativePushProcessingEnabled>
+<nativePushProcessingEnabled>true</nativePushProcessingEnabled>
 <webUrlInUniversalPushNotification>true</webUrlInUniversalPushNotification>
 <cardNotificationWithSenderNameAndComment>true</cardNotificationWithSenderNameAndComment>
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
@@ -8747,7 +8790,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="ift-node1.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8775,7 +8818,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="ift-node2.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8803,7 +8846,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8832,7 +8875,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>1</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8925,7 +8968,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <enabled>true</enabled>
 </node>
 <node id="node1.online.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="node2.online.sberbank.ru">
 <enabled>true</enabled>
@@ -8943,13 +8986,13 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <enabled>true</enabled>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <enabled>true</enabled>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <enabled>true</enabled>
@@ -8966,42 +9009,6 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 </nodes>
 </param>
 <param name="LegacyCardInfoDoRequest" description="Старый способ запроса информации по КК">
-<type>service</type>
-<enabled>true</enabled>
-<nodes>
-<node id="greenfield1.online.sberbank.ru">
-<enabled>true</enabled>
-</node>
-<node id="greenfield2.online.sberbank.ru">
-<enabled>true</enabled>
-</node>
-<node id="mobile.sberbank.ru">
-<enabled>true</enabled>
-</node>
-<node id="ift-node1.testonline.sberbank.ru">
-<enabled>true</enabled>
-</node>
-<node id="ift-node2.testonline.sberbank.ru">
-<enabled>true</enabled>
-</node>
-<node id="ift-node1-mp.testonline.sberbank.ru">
-<enabled>true</enabled>
-</node>
-<node id="ift-node2-mp.testonline.sberbank.ru">
-<enabled>true</enabled>
-</node>
-<node id="psinode2.testonline.sberbank.ru">
-<enabled>true</enabled>
-</node>
-<node id="psinode1.testonline.sberbank.ru">
-<enabled>true</enabled>
-</node>
-<node id="194.186.207.23">
-<enabled>true</enabled>
-</node>
-</nodes>
-</param>
-<param name="MomentumCardEndDateMessage" description="Окончание срока действия карты Моментум">
 <type>service</type>
 <enabled>true</enabled>
 <nodes>
@@ -9313,6 +9320,8 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
 <QRCodeBubbleEnabled>false</QRCodeBubbleEnabled>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 <node id="greenfield2.online.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9320,6 +9329,8 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
 <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 <node id="node1.online.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9327,6 +9338,8 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
 <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 <node id="node2.online.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9334,6 +9347,8 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
 <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 <node id="node3.online.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9341,6 +9356,8 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
 <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 <node id="node4.online.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9348,6 +9365,8 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
 <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 <node id="mobile.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9355,8 +9374,10 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
 <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
 <paymentsAutoFill>true</paymentsAutoFill>
-<paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
+<paymentsRequisiteGrouping>false</paymentsRequisiteGrouping>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9366,6 +9387,8 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <paymentsAutoFill>true</paymentsAutoFill>
 <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9375,6 +9398,8 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <paymentsAutoFill>true</paymentsAutoFill>
 <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9384,6 +9409,8 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <paymentsAutoFill>true</paymentsAutoFill>
 <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9393,6 +9420,8 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <paymentsAutoFill>true</paymentsAutoFill>
 <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 <node id="ift-node3-mp.testonline.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9402,6 +9431,8 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <paymentsAutoFill>true</paymentsAutoFill>
 <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 <node id="ift-node4-mp.testonline.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9411,6 +9442,8 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <paymentsAutoFill>true</paymentsAutoFill>
 <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 <node id="ift-node5-mp.testonline.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9420,6 +9453,8 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <paymentsAutoFill>true</paymentsAutoFill>
 <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 <node id="psinode1.testonline.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9429,6 +9464,8 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <paymentsAutoFill>true</paymentsAutoFill>
 <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 <node id="194.186.207.23">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9436,6 +9473,8 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
 <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
 <paymentCertificate>true</paymentCertificate>
+<paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
+<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
 </node>
 </nodes>
 </param>
@@ -9503,9 +9542,6 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <version name="9.4.0">
 <enabled>true</enabled>
 </version>
-<version name="9.5.0">
-<enabled>true</enabled>
-</version>
 <version name="9.6.0">
 <enabled>true</enabled>
 </version>
@@ -9515,18 +9551,12 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <version name="9.7.1">
 <enabled>true</enabled>
 </version>
+<version name="9.8.0">
+<enabled>true</enabled>
+</version>
 </sendVersions>
 <receiveVersions>
 <version name="9.4.0">
-<enabled>true</enabled>
-</version>
-<version name="9.5.0">
-<enabled>true</enabled>
-</version>
-<version name="9.6.0">
-<enabled>true</enabled>
-</version>
-<version name="9.7.0">
 <enabled>true</enabled>
 </version>
 </receiveVersions>
@@ -9616,6 +9646,9 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <enabled>false</enabled>
 </version>
 <version name="9.7.0">
+<enabled>true</enabled>
+</version>
+<version name="9.7.1">
 <enabled>true</enabled>
 </version>
 <version name="9.8.0">
@@ -9827,7 +9860,7 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <type>setting</type>
 <enabled>true</enabled>
 <link>
-https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/tariffs.xml
+https://stat.online.sberbank.ru/PhizIC-res/mapicfg/tariffs.xml
 </link>
 <warningTextEnabled>true</warningTextEnabled>
 <warningText>
@@ -9850,7 +9883,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/tariffs.xml
 <enabled>true</enabled>
 </node>
 <node id="greenfield1.online.sberbank.ru">
-<enabled>false</enabled>
+<enabled>true</enabled>
 </node>
 <node id="greenfield2.online.sberbank.ru">
 <enabled>true</enabled>
