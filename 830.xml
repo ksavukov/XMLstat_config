@@ -806,6 +806,7 @@
 <key>name</key>
 <CardPANRqList>
 <CardPANRq id="Visa Classic"/>
+<CardPANRq id="MasterCard Mass"/>
 <CardPANRq id="Visa Gold"/>
 <CardPANRq id="MIR"/>
 <CardPANRq id="Visa Digital"/>
@@ -870,7 +871,7 @@
 <enabled>true</enabled>
 <nodes>
 <node id="node0.online.sberbank.ru">
-<cardStatementOperations>false</cardStatementOperations>
+<cardStatementOperations>true</cardStatementOperations>
 <StatementOperationsLimit>1000</StatementOperationsLimit>
 <cardStatementTutorial>true</cardStatementTutorial>
 <StatementPagination>true</StatementPagination>
@@ -878,7 +879,7 @@
 <StatementPaginationLimit>30</StatementPaginationLimit>
 </node>
 <node id="node1.online.sberbank.ru">
-<cardStatementOperations>false</cardStatementOperations>
+<cardStatementOperations>true</cardStatementOperations>
 <StatementOperationsLimit>1000</StatementOperationsLimit>
 <cardStatementTutorial>true</cardStatementTutorial>
 <StatementPagination>true</StatementPagination>
@@ -886,7 +887,7 @@
 <StatementPaginationLimit>30</StatementPaginationLimit>
 </node>
 <node id="node2.online.sberbank.ru">
-<cardStatementOperations>false</cardStatementOperations>
+<cardStatementOperations>true</cardStatementOperations>
 <StatementOperationsLimit>1000</StatementOperationsLimit>
 <cardStatementTutorial>true</cardStatementTutorial>
 <StatementPagination>true</StatementPagination>
@@ -894,7 +895,7 @@
 <StatementPaginationLimit>30</StatementPaginationLimit>
 </node>
 <node id="node3.online.sberbank.ru">
-<cardStatementOperations>false</cardStatementOperations>
+<cardStatementOperations>true</cardStatementOperations>
 <StatementOperationsLimit>1000</StatementOperationsLimit>
 <cardStatementTutorial>true</cardStatementTutorial>
 <StatementPagination>true</StatementPagination>
@@ -1576,15 +1577,15 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerLoginNew>true</MessengerLoginNew>
 <MessengerBlockContactWithReason>true</MessengerBlockContactWithReason>
 <timeToRefreshUnread>600</timeToRefreshUnread>
-<MessengerLinks>true</MessengerLinks>
-<MessengerMarkdownLinks>true</MessengerMarkdownLinks>
+<MessengerLinks>false</MessengerLinks>
+<MessengerMarkdownLinks>false</MessengerMarkdownLinks>
 <MessengerPostcardFirework>true</MessengerPostcardFirework>
 <MessengerPostcardSend>true</MessengerPostcardSend>
 <MessengerPostcardForNonClient>true</MessengerPostcardForNonClient>
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcardNew>true</MessengerVoicePostcardNew>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
-<MessengerP2PRetranslation>true</MessengerP2PRetranslation>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1606,15 +1607,15 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerLoginNew>true</MessengerLoginNew>
 <MessengerBlockContactWithReason>true</MessengerBlockContactWithReason>
 <timeToRefreshUnread>600</timeToRefreshUnread>
-<MessengerLinks>true</MessengerLinks>
-<MessengerMarkdownLinks>true</MessengerMarkdownLinks>
+<MessengerLinks>false</MessengerLinks>
+<MessengerMarkdownLinks>false</MessengerMarkdownLinks>
 <MessengerPostcardFirework>true</MessengerPostcardFirework>
 <MessengerPostcardSend>true</MessengerPostcardSend>
 <MessengerPostcardForNonClient>true</MessengerPostcardForNonClient>
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcardNew>true</MessengerVoicePostcardNew>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
-<MessengerP2PRetranslation>true</MessengerP2PRetranslation>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1636,15 +1637,15 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerLoginNew>true</MessengerLoginNew>
 <MessengerBlockContactWithReason>true</MessengerBlockContactWithReason>
 <timeToRefreshUnread>600</timeToRefreshUnread>
-<MessengerLinks>true</MessengerLinks>
-<MessengerMarkdownLinks>true</MessengerMarkdownLinks>
+<MessengerLinks>false</MessengerLinks>
+<MessengerMarkdownLinks>false</MessengerMarkdownLinks>
 <MessengerPostcardFirework>true</MessengerPostcardFirework>
 <MessengerPostcardSend>true</MessengerPostcardSend>
 <MessengerPostcardForNonClient>true</MessengerPostcardForNonClient>
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcardNew>true</MessengerVoicePostcardNew>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
-<MessengerP2PRetranslation>true</MessengerP2PRetranslation>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1666,15 +1667,15 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerLoginNew>true</MessengerLoginNew>
 <MessengerBlockContactWithReason>true</MessengerBlockContactWithReason>
 <timeToRefreshUnread>600</timeToRefreshUnread>
-<MessengerLinks>true</MessengerLinks>
-<MessengerMarkdownLinks>true</MessengerMarkdownLinks>
+<MessengerLinks>false</MessengerLinks>
+<MessengerMarkdownLinks>false</MessengerMarkdownLinks>
 <MessengerPostcardFirework>true</MessengerPostcardFirework>
 <MessengerPostcardSend>true</MessengerPostcardSend>
 <MessengerPostcardForNonClient>true</MessengerPostcardForNonClient>
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcardNew>true</MessengerVoicePostcardNew>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
-<MessengerP2PRetranslation>true</MessengerP2PRetranslation>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1696,15 +1697,15 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerLoginNew>true</MessengerLoginNew>
 <MessengerBlockContactWithReason>true</MessengerBlockContactWithReason>
 <timeToRefreshUnread>600</timeToRefreshUnread>
-<MessengerLinks>true</MessengerLinks>
-<MessengerMarkdownLinks>true</MessengerMarkdownLinks>
+<MessengerLinks>false</MessengerLinks>
+<MessengerMarkdownLinks>false</MessengerMarkdownLinks>
 <MessengerPostcardFirework>true</MessengerPostcardFirework>
 <MessengerPostcardSend>true</MessengerPostcardSend>
 <MessengerPostcardForNonClient>true</MessengerPostcardForNonClient>
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcardNew>true</MessengerVoicePostcardNew>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
-<MessengerP2PRetranslation>true</MessengerP2PRetranslation>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1734,7 +1735,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcardNew>true</MessengerVoicePostcardNew>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
-<MessengerP2PRetranslation>true</MessengerP2PRetranslation>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1764,7 +1765,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcardNew>true</MessengerVoicePostcardNew>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
-<MessengerP2PRetranslation>true</MessengerP2PRetranslation>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1794,7 +1795,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcardNew>true</MessengerVoicePostcardNew>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
-<MessengerP2PRetranslation>true</MessengerP2PRetranslation>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1824,7 +1825,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
 <MessengerVoicePostcardNew>true</MessengerVoicePostcardNew>
 <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
-<MessengerP2PRetranslation>true</MessengerP2PRetranslation>
+<MessengerP2PRetranslation>false</MessengerP2PRetranslation>
 <MessengerDocDoc>true</MessengerDocDoc>
 <MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
 <MessengerPin>true</MessengerPin>
@@ -1846,8 +1847,8 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerLoginNew>true</MessengerLoginNew>
 <MessengerBlockContactWithReason>true</MessengerBlockContactWithReason>
 <timeToRefreshUnread>600</timeToRefreshUnread>
-<MessengerLinks>true</MessengerLinks>
-<MessengerMarkdownLinks>true</MessengerMarkdownLinks>
+<MessengerLinks>false</MessengerLinks>
+<MessengerMarkdownLinks>false</MessengerMarkdownLinks>
 <MessengerPostcardFirework>true</MessengerPostcardFirework>
 <MessengerPostcardSend>true</MessengerPostcardSend>
 <MessengerPostcardForNonClient>true</MessengerPostcardForNonClient>
@@ -1875,8 +1876,8 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerLoginNew>true</MessengerLoginNew>
 <MessengerBlockContactWithReason>true</MessengerBlockContactWithReason>
 <timeToRefreshUnread>600</timeToRefreshUnread>
-<MessengerLinks>true</MessengerLinks>
-<MessengerMarkdownLinks>true</MessengerMarkdownLinks>
+<MessengerLinks>false</MessengerLinks>
+<MessengerMarkdownLinks>false</MessengerMarkdownLinks>
 <MessengerPostcardFirework>true</MessengerPostcardFirework>
 <MessengerPostcardSend>true</MessengerPostcardSend>
 <MessengerPostcardForNonClient>true</MessengerPostcardForNonClient>
@@ -1904,8 +1905,8 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <MessengerLoginNew>true</MessengerLoginNew>
 <MessengerBlockContactWithReason>true</MessengerBlockContactWithReason>
 <timeToRefreshUnread>600</timeToRefreshUnread>
-<MessengerLinks>true</MessengerLinks>
-<MessengerMarkdownLinks>true</MessengerMarkdownLinks>
+<MessengerLinks>false</MessengerLinks>
+<MessengerMarkdownLinks>false</MessengerMarkdownLinks>
 <MessengerPostcardFirework>true</MessengerPostcardFirework>
 <MessengerPostcardSend>true</MessengerPostcardSend>
 <MessengerPostcardForNonClient>true</MessengerPostcardForNonClient>
@@ -2539,6 +2540,8 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <governmentAnimationSearching>true</governmentAnimationSearching>
 <blockedCardsStatusWay4>true</blockedCardsStatusWay4>
 <autoTransfer>true</autoTransfer>
+<autoTransferMinAmountEnabled>true</autoTransferMinAmountEnabled>
+<autoTransferMinAmount>30</autoTransferMinAmount>
 <UFSHost/>
 <coreCreditCardInfo_v2>true</coreCreditCardInfo_v2>
 <coreCreditCardInfo_v3>true</coreCreditCardInfo_v3>
@@ -2708,6 +2711,8 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <governmentAnimationSearching>true</governmentAnimationSearching>
 <blockedCardsStatusWay4>true</blockedCardsStatusWay4>
 <autoTransfer>true</autoTransfer>
+<autoTransferMinAmountEnabled>true</autoTransferMinAmountEnabled>
+<autoTransferMinAmount>30</autoTransferMinAmount>
 <UFSHost/>
 <coreCreditCardInfo_v2>true</coreCreditCardInfo_v2>
 <coreCreditCardInfo_v3>true</coreCreditCardInfo_v3>
@@ -2800,6 +2805,8 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <governmentAnimationSearching>true</governmentAnimationSearching>
 <blockedCardsStatusWay4>true</blockedCardsStatusWay4>
 <autoTransfer>true</autoTransfer>
+<autoTransferMinAmountEnabled>true</autoTransferMinAmountEnabled>
+<autoTransferMinAmount>30</autoTransferMinAmount>
 <UFSHost/>
 <coreCreditCardInfo_v2>true</coreCreditCardInfo_v2>
 <coreCreditCardInfo_v3>true</coreCreditCardInfo_v3>
@@ -2896,6 +2903,8 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <governmentAnimationSearching>true</governmentAnimationSearching>
 <blockedCardsStatusWay4>true</blockedCardsStatusWay4>
 <autoTransfer>true</autoTransfer>
+<autoTransferMinAmountEnabled>true</autoTransferMinAmountEnabled>
+<autoTransferMinAmount>30</autoTransferMinAmount>
 <UFSHost/>
 <showUfsHistoryOperations>false</showUfsHistoryOperations>
 <showSpasibo>true</showSpasibo>
@@ -2987,6 +2996,8 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <governmentAnimationSearching>true</governmentAnimationSearching>
 <blockedCardsStatusWay4>true</blockedCardsStatusWay4>
 <autoTransfer>true</autoTransfer>
+<autoTransferMinAmountEnabled>true</autoTransferMinAmountEnabled>
+<autoTransferMinAmount>30</autoTransferMinAmount>
 <UFSHost/>
 <coreCreditCardInfo_v2>true</coreCreditCardInfo_v2>
 <coreCreditCardInfo_v3>true</coreCreditCardInfo_v3>
@@ -3081,6 +3092,8 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <governmentAnimationSearching>true</governmentAnimationSearching>
 <blockedCardsStatusWay4>true</blockedCardsStatusWay4>
 <autoTransfer>true</autoTransfer>
+<autoTransferMinAmountEnabled>true</autoTransferMinAmountEnabled>
+<autoTransferMinAmount>30</autoTransferMinAmount>
 <UFSHost/>
 <coreCreditCardInfo_v2>true</coreCreditCardInfo_v2>
 <coreCreditCardInfo_v3>true</coreCreditCardInfo_v3>
@@ -3176,6 +3189,8 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <governmentAnimationSearching>true</governmentAnimationSearching>
 <blockedCardsStatusWay4>true</blockedCardsStatusWay4>
 <autoTransfer>true</autoTransfer>
+<autoTransferMinAmountEnabled>true</autoTransferMinAmountEnabled>
+<autoTransferMinAmount>30</autoTransferMinAmount>
 <UFSHost>pfl-psi.efstst.sigma.sbrf.ru:443</UFSHost>
 <coreCreditCardInfo_v2>true</coreCreditCardInfo_v2>
 <coreCreditCardInfo_v3>true</coreCreditCardInfo_v3>
@@ -3231,7 +3246,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <earlyLoanRepayment>true</earlyLoanRepayment>
 <newProductDetailsUIEnabled>true</newProductDetailsUIEnabled>
 <newProductDetailsContentEnabled>true</newProductDetailsContentEnabled>
-<soundsInAppEnabled>false</soundsInAppEnabled>
+<soundsInAppEnabled>true</soundsInAppEnabled>
 <PaymentTransactionsPopUpConfirmNumber>true</PaymentTransactionsPopUpConfirmNumber>
 <googleMapsEnabled>false</googleMapsEnabled>
 <messengerFirstLoginEnabled>false</messengerFirstLoginEnabled>
@@ -3529,6 +3544,8 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <governmentAnimationSearching>true</governmentAnimationSearching>
 <blockedCardsStatusWay4>true</blockedCardsStatusWay4>
 <autoTransfer>true</autoTransfer>
+<autoTransferMinAmountEnabled>true</autoTransferMinAmountEnabled>
+<autoTransferMinAmount>30</autoTransferMinAmount>
 <UFSHost>ift.testefs.sberbank.ru:443</UFSHost>
 <coreCreditCardInfo_v2>true</coreCreditCardInfo_v2>
 <coreCreditCardInfo_v3>true</coreCreditCardInfo_v3>
@@ -3614,6 +3631,8 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <governmentAnimationSearching>true</governmentAnimationSearching>
 <blockedCardsStatusWay4>true</blockedCardsStatusWay4>
 <autoTransfer>true</autoTransfer>
+<autoTransferMinAmountEnabled>true</autoTransferMinAmountEnabled>
+<autoTransferMinAmount>30</autoTransferMinAmount>
 <UFSHost>ift.testefs.sberbank.ru:443</UFSHost>
 <coreCreditCardInfo_v2>true</coreCreditCardInfo_v2>
 <coreCreditCardInfo_v3>true</coreCreditCardInfo_v3>
@@ -3699,6 +3718,8 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <governmentAnimationSearching>true</governmentAnimationSearching>
 <blockedCardsStatusWay4>true</blockedCardsStatusWay4>
 <autoTransfer>true</autoTransfer>
+<autoTransferMinAmountEnabled>true</autoTransferMinAmountEnabled>
+<autoTransferMinAmount>30</autoTransferMinAmount>
 <UFSHost>ift.testefs.sberbank.ru:443</UFSHost>
 <coreCreditCardInfo_v2>true</coreCreditCardInfo_v2>
 <coreCreditCardInfo_v3>true</coreCreditCardInfo_v3>
@@ -3785,6 +3806,8 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <governmentAnimationSearching>true</governmentAnimationSearching>
 <blockedCardsStatusWay4>true</blockedCardsStatusWay4>
 <autoTransfer>true</autoTransfer>
+<autoTransferMinAmountEnabled>true</autoTransferMinAmountEnabled>
+<autoTransferMinAmount>30</autoTransferMinAmount>
 <UFSHost>ift.testefs.sberbank.ru:443</UFSHost>
 <coreCreditCardInfo_v2>true</coreCreditCardInfo_v2>
 <coreCreditCardInfo_v3>true</coreCreditCardInfo_v3>
@@ -3956,6 +3979,8 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 <governmentAnimationSearching>true</governmentAnimationSearching>
 <blockedCardsStatusWay4>true</blockedCardsStatusWay4>
 <autoTransfer>true</autoTransfer>
+<autoTransferMinAmountEnabled>true</autoTransferMinAmountEnabled>
+<autoTransferMinAmount>30</autoTransferMinAmount>
 <UFSHost>ift.testefs.sberbank.ru:443</UFSHost>
 <coreCreditCardInfo_v2>true</coreCreditCardInfo_v2>
 <coreCreditCardInfo_v3>true</coreCreditCardInfo_v3>
@@ -4452,6 +4477,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <cache>
 <lifetimeOfIcons>129600</lifetimeOfIcons>
 <lifetimeOfImages>20160</lifetimeOfImages>
+<lifetimeOfVideo>3</lifetimeOfVideo>
 </cache>
 </settings>
 <mainScreen>
@@ -4539,6 +4565,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <cache>
 <lifetimeOfIcons>129600</lifetimeOfIcons>
 <lifetimeOfImages>20160</lifetimeOfImages>
+<lifetimeOfVideo>3</lifetimeOfVideo>
 </cache>
 </settings>
 <mainScreen>
@@ -4627,6 +4654,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <cache>
 <lifetimeOfIcons>129600</lifetimeOfIcons>
 <lifetimeOfImages>20160</lifetimeOfImages>
+<lifetimeOfVideo>3</lifetimeOfVideo>
 </cache>
 </settings>
 <mainScreen>
@@ -4714,6 +4742,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <cache>
 <lifetimeOfIcons>129600</lifetimeOfIcons>
 <lifetimeOfImages>20160</lifetimeOfImages>
+<lifetimeOfVideo>3</lifetimeOfVideo>
 </cache>
 </settings>
 <mainScreen>
@@ -4801,6 +4830,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <cache>
 <lifetimeOfIcons>129600</lifetimeOfIcons>
 <lifetimeOfImages>20160</lifetimeOfImages>
+<lifetimeOfVideo>3</lifetimeOfVideo>
 </cache>
 </settings>
 <mainScreen>
@@ -4874,6 +4904,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <cache>
 <lifetimeOfIcons>129600</lifetimeOfIcons>
 <lifetimeOfImages>20160</lifetimeOfImages>
+<lifetimeOfVideo>3</lifetimeOfVideo>
 </cache>
 </settings>
 <mainScreen>
@@ -4945,6 +4976,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <cache>
 <lifetimeOfIcons>129600</lifetimeOfIcons>
 <lifetimeOfImages>20160</lifetimeOfImages>
+<lifetimeOfVideo>3</lifetimeOfVideo>
 </cache>
 </settings>
 <mainScreen>
@@ -5016,6 +5048,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <cache>
 <lifetimeOfIcons>129600</lifetimeOfIcons>
 <lifetimeOfImages>20160</lifetimeOfImages>
+<lifetimeOfVideo>3</lifetimeOfVideo>
 </cache>
 </settings>
 <mainScreen>
@@ -5087,6 +5120,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <cache>
 <lifetimeOfIcons>129600</lifetimeOfIcons>
 <lifetimeOfImages>20160</lifetimeOfImages>
+<lifetimeOfVideo>3</lifetimeOfVideo>
 </cache>
 </settings>
 <mainScreen>
@@ -5158,6 +5192,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <cache>
 <lifetimeOfIcons>129600</lifetimeOfIcons>
 <lifetimeOfImages>20160</lifetimeOfImages>
+<lifetimeOfVideo>3</lifetimeOfVideo>
 </cache>
 </settings>
 <mainScreen>
@@ -5229,6 +5264,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <cache>
 <lifetimeOfIcons>129600</lifetimeOfIcons>
 <lifetimeOfImages>20160</lifetimeOfImages>
+<lifetimeOfVideo>3</lifetimeOfVideo>
 </cache>
 </settings>
 <mainScreen>
@@ -5366,7 +5402,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 </service>
 <service name="deeplinkToMainFlow">
 <version id="default">
-<flow permission="UFSLoanRequestPreadopted">doActionPreadopted</flow>
+<flow permission="UFSLoanRequestPreadopted">doActionPreadoptedDeepLink</flow>
 <flow permission="UFSLoanRequestWithInsurance">doActionWithInsuranceDeepLink</flow>
 <flow permission="UFSLoanRequest">doActionDeepLink</flow>
 </version>
@@ -6198,6 +6234,23 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 </service>
 </services>
 <CCVersions>
+<version id="9.9">
+<enabled>true</enabled>
+<calculateCC>true</calculateCC>
+<showcase>true</showcase>
+<loanApplication>true</loanApplication>
+<creditCardApplication>true</creditCardApplication>
+<CCTutorial>true</CCTutorial>
+<CCOperationHistory>true</CCOperationHistory>
+<calculateCCDeeplink>true</calculateCCDeeplink>
+<showcaseDeeplink>true</showcaseDeeplink>
+<flowVersions>
+<flowName name="form" version="1"/>
+<flowName name="loanRequest" version="1"/>
+<flowName name="operationHistory" version="1"/>
+<flowName name="default" version="0"/>
+</flowVersions>
+</version>
 <version id="9.8">
 <enabled>true</enabled>
 <calculateCC>true</calculateCC>
@@ -8497,7 +8550,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="greenfield0.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>0</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8525,7 +8578,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="greenfield1.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>0</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8553,7 +8606,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="node0.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>0</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8581,7 +8634,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="node1.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>0</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8609,7 +8662,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="node2.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>0</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8637,7 +8690,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="node3.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>0</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8665,7 +8718,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="node4.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>0</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8693,7 +8746,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="psinode1.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>0</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8721,7 +8774,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="mobile.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>0</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8749,7 +8802,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>0</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8777,7 +8830,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="ift-node1.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>0</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8805,7 +8858,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="ift-node2.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>0</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8833,7 +8886,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>0</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -8862,7 +8915,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-<MFMSMessageRequestType>2</MFMSMessageRequestType>
+<MFMSMessageRequestType>0</MFMSMessageRequestType>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
@@ -9300,6 +9353,7 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 </param>
 <param name="PaymentsAndTransfers">
 <type>list</type>
+<paymentDetailPaymentMenuEnabled>true</paymentDetailPaymentMenuEnabled>
 <nodes>
 <node id="greenfield1.online.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9393,7 +9447,7 @@ https://test.stat.online.sberbank.ru/WESTERNUNION/Oferta_Western_Union_a2a.pdf
 <paymentsAutoFill>true</paymentsAutoFill>
 <paymentCertificate>true</paymentCertificate>
 <paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
-<paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
+<paymentExecTimeInfoEnabled>false</paymentExecTimeInfoEnabled>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <smartSearchFromPayment>true</smartSearchFromPayment>
@@ -9874,7 +9928,7 @@ https://stat.online.sberbank.ru/PhizIC-res/mapicfg/tariffs.xml
 </node>
 </nodes>
 </param>
-<param name="interTransfer" description="Перевод для получения наличных в Western Union">
+<param name="interTransfer" description="Перевод в СНГ">
 <type>list</type>
 <enabled>true</enabled>
 <serviceProviders>
@@ -9893,6 +9947,7 @@ https://stat.online.sberbank.ru/PhizIC-res/mapicfg/tariffs.xml
 </nodes>
 </serviceProvider>
 </serviceProviders>
+<checkName>Western Union</checkName>
  <!--
 Параметр showTutorial отвечает за доступность экрана Промо при входе в приложение
 -->
@@ -9995,49 +10050,49 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/card_tariffs.xml
 </link>
 <nodes>
 <node id="node0.online.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="node1.online.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="node2.online.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="node3.online.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="node4.online.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="greenfield1.online.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="greenfield2.online.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="mobile.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="psinode2.testonline.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="psinode1.testonline.sberbank.ru">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 <node id="194.186.207.23">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </node>
 </nodes>
 </param>
@@ -10185,6 +10240,19 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/card_tariffs.xml
 </node>
 <node id="194.186.207.23">
 <enabled>true</enabled>
+</node>
+</nodes>
+</param>
+<param name="VoiceAssistantPermissions" description="Голосовой помощник">
+<type>list</type>
+<enabled>true</enabled>
+<CountRepeat>3</CountRepeat>
+<nodes>
+<node id="greenfield1.online.sberbank.ru">
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+</node>
+<node id="greenfield2.online.sberbank.ru">
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
 </node>
 </nodes>
 </param>
