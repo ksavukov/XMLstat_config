@@ -8548,6 +8548,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
 <nodes>
 <node id="greenfield0.online.sberbank.ru">
+ <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>0</MFMSMessageRequestType>
@@ -8576,6 +8577,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 </node>
 <node id="greenfield1.online.sberbank.ru">
+ <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>0</MFMSMessageRequestType>
@@ -8604,6 +8606,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 </node>
 <node id="node0.online.sberbank.ru">
+ <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>0</MFMSMessageRequestType>
@@ -8632,6 +8635,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 </node>
 <node id="node1.online.sberbank.ru">
+ <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>0</MFMSMessageRequestType>
@@ -8660,6 +8664,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 </node>
 <node id="node2.online.sberbank.ru">
+ <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>0</MFMSMessageRequestType>
@@ -8688,6 +8693,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 </node>
 <node id="node3.online.sberbank.ru">
+ <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>0</MFMSMessageRequestType>
@@ -8716,6 +8722,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 </node>
 <node id="node4.online.sberbank.ru">
+ <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>0</MFMSMessageRequestType>
@@ -8744,6 +8751,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 </node>
 <node id="psinode1.testonline.sberbank.ru">
+ <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>0</MFMSMessageRequestType>
@@ -8772,6 +8780,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 </node>
 <node id="mobile.sberbank.ru">
+ <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>0</MFMSMessageRequestType>
@@ -8800,6 +8809,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 </node>
 <node id="194.186.207.23">
+ <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>0</MFMSMessageRequestType>
@@ -8828,6 +8838,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
+ <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>0</MFMSMessageRequestType>
@@ -8856,6 +8867,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
+ <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>0</MFMSMessageRequestType>
@@ -8884,6 +8896,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
+ <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>0</MFMSMessageRequestType>
@@ -8913,6 +8926,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
+ <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>0</MFMSMessageRequestType>
