@@ -8806,7 +8806,7 @@ https://nginx-ios.ift-node5.testonline.sberbank.ru/
 <XMLHeaderEncodingFix>true</XMLHeaderEncodingFix>
 <transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
 <pushGlobalSearchByKeywords>false</pushGlobalSearchByKeywords>
-<newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
+<newAlertWhenTPUActivate>false</newAlertWhenTPUActivate>
 </node>
 <node id="194.186.207.23">
  <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
