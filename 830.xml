@@ -9181,7 +9181,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
-<MFMSMessageRequestType>0</MFMSMessageRequestType>
+<MFMSMessageRequestType>2</MFMSMessageRequestType>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
@@ -9214,7 +9214,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
-<MFMSMessageRequestType>0</MFMSMessageRequestType>
+<MFMSMessageRequestType>2</MFMSMessageRequestType>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
