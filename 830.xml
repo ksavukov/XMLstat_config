@@ -9054,7 +9054,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
 <MessagesWithExpired>true</MessagesWithExpired>
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
-<MFMSMessageRequestType>0</MFMSMessageRequestType>
+<MFMSMessageRequestType>1</MFMSMessageRequestType>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <NotificationSettingsOwn>true</NotificationSettingsOwn>
