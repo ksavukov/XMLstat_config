@@ -1,4 +1,3 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <configuration>
 <params>
 <param name="BetaFeatures" description="Функционал для бета-версии СБОЛа">
@@ -9196,7 +9195,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <reactivateMainPushNotifications>true</reactivateMainPushNotifications>
 <hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>
 <XMLHeaderEncodingFix>true</XMLHeaderEncodingFix>
-<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
+<transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 <reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
@@ -9230,7 +9229,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <reactivateMainPushNotifications>true</reactivateMainPushNotifications>
 <hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>
 <XMLHeaderEncodingFix>true</XMLHeaderEncodingFix>
-<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
+<transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 <reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
@@ -9264,7 +9263,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <reactivateMainPushNotifications>true</reactivateMainPushNotifications>
 <hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>
 <XMLHeaderEncodingFix>true</XMLHeaderEncodingFix>
-<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
+<transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 <reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
@@ -9298,7 +9297,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <reactivateMainPushNotifications>true</reactivateMainPushNotifications>
 <hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>
 <XMLHeaderEncodingFix>true</XMLHeaderEncodingFix>
-<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
+<transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 <reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
@@ -9332,7 +9331,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <reactivateMainPushNotifications>true</reactivateMainPushNotifications>
 <hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>
 <XMLHeaderEncodingFix>true</XMLHeaderEncodingFix>
-<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
+<transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 <reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
@@ -9366,7 +9365,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <reactivateMainPushNotifications>true</reactivateMainPushNotifications>
 <hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>
 <XMLHeaderEncodingFix>true</XMLHeaderEncodingFix>
-<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
+<transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 <reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
@@ -9400,7 +9399,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <reactivateMainPushNotifications>true</reactivateMainPushNotifications>
 <hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>
 <XMLHeaderEncodingFix>true</XMLHeaderEncodingFix>
-<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
+<transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 <reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
@@ -9434,7 +9433,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <reactivateMainPushNotifications>true</reactivateMainPushNotifications>
 <hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>
 <XMLHeaderEncodingFix>true</XMLHeaderEncodingFix>
-<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
+<transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 <reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
@@ -9468,7 +9467,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <reactivateMainPushNotifications>true</reactivateMainPushNotifications>
 <hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>
 <XMLHeaderEncodingFix>true</XMLHeaderEncodingFix>
-<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
+<transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <pushGlobalSearchByKeywords>false</pushGlobalSearchByKeywords>
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 <reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
@@ -9502,7 +9501,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <reactivateMainPushNotifications>true</reactivateMainPushNotifications>
 <hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>
 <XMLHeaderEncodingFix>true</XMLHeaderEncodingFix>
-<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
+<transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 <reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
@@ -9536,7 +9535,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <reactivateMainPushNotifications>true</reactivateMainPushNotifications>
 <hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>
 <XMLHeaderEncodingFix>true</XMLHeaderEncodingFix>
-<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
+<transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 <reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
@@ -9570,7 +9569,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <reactivateMainPushNotifications>true</reactivateMainPushNotifications>
 <hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>
 <XMLHeaderEncodingFix>true</XMLHeaderEncodingFix>
-<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
+<transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 <reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
@@ -9605,7 +9604,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>
 <PUSHNotificationsTransactionContentExtension>true</PUSHNotificationsTransactionContentExtension>
 <XMLHeaderEncodingFix>true</XMLHeaderEncodingFix>
-<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
+<transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 <reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
@@ -9639,7 +9638,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <reactivateMainPushNotifications>true</reactivateMainPushNotifications>
 <hideMainPushNotificationsSwitcher>true</hideMainPushNotificationsSwitcher>
 <XMLHeaderEncodingFix>true</XMLHeaderEncodingFix>
-<transferTPUSettingsOnNewRegistration>true</transferTPUSettingsOnNewRegistration>
+<transferTPUSettingsOnNewRegistration>false</transferTPUSettingsOnNewRegistration>
 <pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
 <newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 <reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
