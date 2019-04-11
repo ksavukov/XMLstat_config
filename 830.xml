@@ -10020,7 +10020,7 @@ https://stat.online.sberbank.ru/PhizIC-res/IMG/PU/20/63/61/2b26d928c6b985710071f
 <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 <mobileBankChangePhone>true</mobileBankChangePhone>
-<FullTariffTurnOffEnabled>true</FullTariffTurnOffEnabled>
+<FullTariffTurnOffEnabled>false</FullTariffTurnOffEnabled>
 <ShowNotificationTerm>true</ShowNotificationTerm>
 </node>
 <node id="greenfield1.online.sberbank.ru">
@@ -10028,7 +10028,7 @@ https://stat.online.sberbank.ru/PhizIC-res/IMG/PU/20/63/61/2b26d928c6b985710071f
 <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 <mobileBankChangePhone>true</mobileBankChangePhone>
-<FullTariffTurnOffEnabled>true</FullTariffTurnOffEnabled>
+<FullTariffTurnOffEnabled>false</FullTariffTurnOffEnabled>
 <ShowNotificationTerm>true</ShowNotificationTerm>
 </node>
 <node id="psinode1.testonline.sberbank.ru">
@@ -10036,7 +10036,7 @@ https://stat.online.sberbank.ru/PhizIC-res/IMG/PU/20/63/61/2b26d928c6b985710071f
 <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 <mobileBankChangePhone>true</mobileBankChangePhone>
-<FullTariffTurnOffEnabled>true</FullTariffTurnOffEnabled>
+<FullTariffTurnOffEnabled>false</FullTariffTurnOffEnabled>
 <ShowNotificationTerm>true</ShowNotificationTerm>
 </node>
 <node id="mobile.sberbank.ru">
@@ -10044,7 +10044,7 @@ https://stat.online.sberbank.ru/PhizIC-res/IMG/PU/20/63/61/2b26d928c6b985710071f
 <mobileBankFromCardSetting>true</mobileBankFromCardSetting>
 <CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 <mobileBankChangePhone>true</mobileBankChangePhone>
-<FullTariffTurnOffEnabled>true</FullTariffTurnOffEnabled>
+<FullTariffTurnOffEnabled>false</FullTariffTurnOffEnabled>
 <ShowNotificationTerm>true</ShowNotificationTerm>
 </node>
 <node id="194.186.207.23">
