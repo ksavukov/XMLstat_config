@@ -9800,8 +9800,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/Rus.json
 <param name="PushPermissions" description="единый стек параметров для push">
 <type>list</type>
 <pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
-<pushHistoryHeadBatchSize>50</pushHistoryHeadBatchSize>
-<pushHistoryScrollBatchSize>50</pushHistoryScrollBatchSize>
+<pushHistoryHeadBatchSize>30</pushHistoryHeadBatchSize>
+<pushHistoryScrollBatchSize>15</pushHistoryScrollBatchSize>
 <nodes>
 <node id="greenfield0.online.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
