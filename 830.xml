@@ -10297,6 +10297,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/Rus.json
 <NewNotificationsListHistory>true</NewNotificationsListHistory>
 <NewNotificationsListSearch>true</NewNotificationsListSearch>
 <newPushAutoTurn>false</newPushAutoTurn>
+ <enableDeletePushMessage>false</enableDeletePushMessage>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -10335,6 +10336,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/Rus.json
 <NewNotificationsListHistory>true</NewNotificationsListHistory>
 <NewNotificationsListSearch>true</NewNotificationsListSearch>
 <newPushAutoTurn>false</newPushAutoTurn>
+  <enableDeletePushMessage>false</enableDeletePushMessage>
 </node>
 </nodes>
 <bestActions>
