@@ -11622,4 +11622,852 @@ https://test.stat.online.sberbank.ru/SALESTOOLS/offers/pic-hobbie.png
 </node>
 </nodes>
 </param>
-<param name="GiftsLitresEnabled" description="Включение функционала отправки книг от ЛитРес в Пода
+<param name="GiftsLitresEnabled" description="Включение функционала отправки книг от ЛитРес в Подарках">
+<type>list</type>
+<sendVersions>
+<version name="9.12.0">
+<enabled>true</enabled>
+</version>
+</sendVersions>
+</param>
+<param name="MessengerGiftTab" description="Версионированный ключ для таба Подарок в Диалогах для версий с 9.6.0">
+<type>list</type>
+<enabled>true</enabled>
+<sendVersions>
+<version name="9.9.0">
+<enabled>true</enabled>
+</version>
+<version name="9.12.0">
+<enabled>true</enabled>
+</version>
+</sendVersions>
+</param>
+<param name="TelecomParameters" description="Телеком: Хост стенда, параметры доступа">
+<type>list</type>
+<nodes>
+<node id="node0.online.sberbank.ru">
+<TelecomHost>https://api.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="node1.online.sberbank.ru">
+<TelecomHost>https://api.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="node2.online.sberbank.ru">
+<TelecomHost>https://api.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="node3.online.sberbank.ru">
+<TelecomHost>https://api.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="node4.online.sberbank.ru">
+<TelecomHost>https://api.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="node5.online.sberbank.ru">
+<TelecomHost>https://api.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="greenfield1.online.sberbank.ru">
+<TelecomHost>https://api.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="greenfield2.online.sberbank.ru">
+<TelecomHost>https://api.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="psinode2.testonline.sberbank.ru">
+<TelecomHost>https://api-test.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="psinode1.testonline.sberbank.ru">
+<TelecomHost>https://api-test.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="194.186.207.23">
+<TelecomHost>https://api-test.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="ift-node1.testonline.sberbank.ru">
+<TelecomHost>https://api-test.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<TelecomHost>https://api-test.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<TelecomHost>https://api-test.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<TelecomHost>https://api-test.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="ift-node5-mp.testonline.sberbank.ru">
+<TelecomHost>https://api-test.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+<node id="mobile.sberbank.ru">
+<TelecomHost>https://api-test.sberbank-tele.com/v2/</TelecomHost>
+<TelecomWidgetLimitsTabEnabled>true</TelecomWidgetLimitsTabEnabled>
+<SimOrderEnabled>true</SimOrderEnabled>
+</node>
+</nodes>
+</param>
+<param name="showTariffsLink" description="Пункт меню Тарифы, Лимиты и Сроки">
+<type>setting</type>
+<enabled>true</enabled>
+<link>
+https://stat.online.sberbank.ru/PhizIC-res/mapicfg/tariffs.xml
+</link>
+<warningTextEnabled>true</warningTextEnabled>
+<warningText>
+Для операций в Сбербанке Онлайн. Полный перечень тарифов, лимитов и сроков осуществления переводов и платежей вы можете найти на сайте [www.sberbank.ru](https://www.sberbank.ru).
+</warningText>
+<nodes>
+<node id="node0.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node1.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node2.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node3.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node4.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="greenfield1.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="greenfield2.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru" description="Стенд ИФТ блок 1 (мобильный)">
+<enabled>true</enabled>
+</node>
+<node id="mobile.sberbank.ru" description="Стенд ПСИ">
+<enabled>true</enabled>
+</node>
+</nodes>
+</param>
+<param name="interTransfer" description="Перевод в СНГ">
+<type>list</type>
+<enabled>true</enabled>
+<serviceProviders>
+<serviceProvider name="Western Union" visibleName="Western Union">
+<nodes>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<targetBilling>344</targetBilling>
+<targetProvider>623561</targetProvider>
+<targetService>623561</targetService>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<targetBilling>344</targetBilling>
+<targetProvider>624932</targetProvider>
+<targetService>624932</targetService>
+</node>
+<node id="mobile.sberbank.ru">
+<targetBilling>344</targetBilling>
+<targetProvider>5000641966</targetProvider>
+<targetService>5000641966</targetService>
+</node>
+</nodes>
+</serviceProvider>
+</serviceProviders>
+<checkName>Western Union</checkName>
+<minVersion>9.5</minVersion>
+<disabledForVersions>
+<disabledForVersion>9.5.0</disabledForVersion>
+</disabledForVersions>
+ <!--
+Параметр showTutorial отвечает за доступность экрана Промо при входе в приложение
+-->
+<showTutorial>true</showTutorial>
+ <!--
+Параметр WUTutorial отвечает за доступность и количество показов экрана Туториал при входе в операцию
+-->
+<WUTutorial description="Количество отображений Туториала">
+<enabled>true</enabled>
+<countTutorial>5</countTutorial>
+</WUTutorial>
+<links>
+<link name="additional">
+https://www.sberbank.ru/ru/person/remittance/perevod_po_nomery_telephona
+</link>
+<link name="offer">
+https://stat.online.sberbank.ru/WESTERNUNION/Offer_Transfers_for_CIS.pdf
+</link>
+</links>
+<tarifPlans>
+<tarifPlan id="0"/>
+</tarifPlans>
+</param>
+<param name="SelfEmployedV2" description="Сервис самозанятые">
+<type>service</type>
+<enabled>true</enabled>
+<assignService>true</assignService>
+<unassignService>true</unassignService>
+</param>
+<param name="SelfEmployedV3" description="Сервис самозанятые">
+<type>service</type>
+<enabled>true</enabled>
+<assignService>true</assignService>
+<unassignService>true</unassignService>
+<incomesListService>true</incomesListService>
+<deleteIncomeService>true</deleteIncomeService>
+<addIncomeService>true</addIncomeService>
+<autopayment>true</autopayment>
+<links>
+<link name="about">
+https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/selfemployed/tutorial.pdf
+</link>
+<link name="offer">
+https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/selfemployed/semp_oferta.pdf
+</link>
+</links>
+</param>
+<param name="PersonalizationDDP" description="Персонализация от сервиса умного поиска">
+<type>setting</type>
+<enabled>true</enabled>
+</param>
+<param name="authBlockingScreen" description="Выводить клиенту врем, через которое будет доступен вход в МП, после блокировки 5-значного пароля">
+<type>setting</type>
+<enabled>true</enabled>
+</param>
+<param name="singleCacheControlCenter" description="Механизм управления кэшом">
+<type>setting</type>
+<enabled>true</enabled>
+</param>
+<param name="NotificationsEnableSuggestion" description="">
+<type>setting</type>
+<enabled>true</enabled>
+<periodInDays>1</periodInDays>
+</param>
+<param name="CreditCardInTransfersPermission" description="Управление запретом на использование кредитных карт в переводах p2p">
+<type>setting</type>
+<enabled>true</enabled>
+<nodes>
+<node id="node0.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node1.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node2.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node3.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node4.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="greenfield1.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="greenfield2.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru" description="Стенд ИФТ блок 1 (мобильный)">
+<enabled>true</enabled>
+</node>
+<node id="mobile.sberbank.ru" description="Стенд ПСИ">
+<enabled>true</enabled>
+</node>
+</nodes>
+</param>
+<param name="ChangeVisibilityProduct" description="Частичное скрытие продукта">
+<type>setting</type>
+<enabled>true</enabled>
+</param>
+<param name="gsHideDeposits" description="Полное скрытие депозитов">
+<type>setting</type>
+<enabled>true</enabled>
+</param>
+<param name="gsHideIMs" description="Полное скрытие металлических счетов">
+<type>setting</type>
+<enabled>true</enabled>
+</param>
+<param name="gsHideProducts" description="Полное скрытие карт">
+<type>setting</type>
+<enabled>true</enabled>
+</param>
+<param name="RecoverProductVisibility" description="восстановление видимости продуктов в канале мобильное приложение">
+<type>setting</type>
+<enabled>true</enabled>
+</param>
+<param name="TariffDebitCard" description="Тариф карты">
+<type>service</type>
+<enabled>true</enabled>
+<link>
+https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/card_tariffs.xml
+</link>
+<newLink>
+https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/card_tariffs_v2.xml
+</newLink>
+<nodes>
+<node id="node0.online.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="node1.online.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="node2.online.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="node3.online.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="node4.online.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="greenfield1.online.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="greenfield2.online.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="mobile.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="ift-node1.testonline.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="psinode2.testonline.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="psinode1.testonline.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="194.186.207.23">
+<enabled>false</enabled>
+</node>
+</nodes>
+</param>
+<param name="P2POverseasCardTransfer" description="Международный карточный перевод">
+<type>list</type>
+<enabled>true</enabled>
+<nodes>
+<node id="node0.online.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="node1.online.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="node2.online.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="node3.online.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="greenfield1.online.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="greenfield2.online.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="194.186.207.23">
+<enabled>true</enabled>
+</node>
+<node id="mobile.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="ift-node0.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="ift-node0-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<enabled>false</enabled>
+</node>
+<node id="10.21.152.7">
+<enabled>true</enabled>
+</node>
+</nodes>
+</param>
+<param name="TargetBlockingCard" description="Целевая блокировка карты">
+<type>service</type>
+<enabled>false</enabled>
+<nodes>
+<node id="node0.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node1.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node2.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node3.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node4.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="greenfield1.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="greenfield2.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="mobile.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="psinode2.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="psinode1.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="194.186.207.23">
+<enabled>true</enabled>
+</node>
+</nodes>
+</param>
+<param name="MAppCardReissueProcess" description="Досрочный перевыпуск карты">
+<type>service</type>
+<enabled>true</enabled>
+<nodes>
+<node id="node0.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node1.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node2.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node3.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="greenfield1.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="mobile.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="psinode2.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="psinode1.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="194.186.207.23">
+<enabled>true</enabled>
+</node>
+</nodes>
+</param>
+<param name="VoiceAssistantPermissions" description="Голосовой помощник">
+<type>list</type>
+<enabled>true</enabled>
+<CountRepeat>3</CountRepeat>
+<nodes>
+<node id="mobile.sberbank.ru">
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+<SSLPinningEnabled>true</SSLPinningEnabled>
+<VoiceProcessingServiceBaseURL>ws://vps-nlpp.apps.test-ose.sigma.sbrf.ru/ws/ask</VoiceProcessingServiceBaseURL>
+<targetTapVoice>true</targetTapVoice>
+<SecondsPerChunk>1.0</SecondsPerChunk>
+</node>
+<node id="greenfield1.online.sberbank.ru">
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+<SSLPinningEnabled>true</SSLPinningEnabled>
+<VoiceProcessingServiceBaseURL>ws://vps-nlpp.apps.test-ose.sigma.sbrf.ru/ws/ask</VoiceProcessingServiceBaseURL>
+<targetTapVoice>true</targetTapVoice>
+<SecondsPerChunk>1.0</SecondsPerChunk>
+</node>
+<node id="greenfield2.online.sberbank.ru">
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+<SSLPinningEnabled>true</SSLPinningEnabled>
+<VoiceProcessingServiceBaseURL>ws://vps-nlpp.apps.test-ose.sigma.sbrf.ru/ws/ask</VoiceProcessingServiceBaseURL>
+<targetTapVoice>true</targetTapVoice>
+<SecondsPerChunk>1.0</SecondsPerChunk>
+</node>
+<node id="ift-node1.testonline.sberbank.ru">
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+<SSLPinningEnabled>true</SSLPinningEnabled>
+<VoiceProcessingServiceBaseURL>ws://vps-nlpp.apps.test-ose.sigma.sbrf.ru/ws/ask</VoiceProcessingServiceBaseURL>
+<targetTapVoice>true</targetTapVoice>
+<SecondsPerChunk>1.0</SecondsPerChunk>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+<SSLPinningEnabled>true</SSLPinningEnabled>
+<VoiceProcessingServiceBaseURL>ws://vps-nlpp.apps.test-ose.sigma.sbrf.ru/ws/ask</VoiceProcessingServiceBaseURL>
+<targetTapVoice>true</targetTapVoice>
+<SecondsPerChunk>1.0</SecondsPerChunk>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+<SSLPinningEnabled>true</SSLPinningEnabled>
+<VoiceProcessingServiceBaseURL>ws://vps-nlpp.apps.test-ose.sigma.sbrf.ru/ws/ask</VoiceProcessingServiceBaseURL>
+<targetTapVoice>true</targetTapVoice>
+<SecondsPerChunk>1.0</SecondsPerChunk>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+<SSLPinningEnabled>true</SSLPinningEnabled>
+<VoiceProcessingServiceBaseURL>ws://vps-nlpp.apps.test-ose.sigma.sbrf.ru/ws/ask</VoiceProcessingServiceBaseURL>
+<targetTapVoice>true</targetTapVoice>
+<SecondsPerChunk>1.0</SecondsPerChunk>
+</node>
+</nodes>
+</param>
+<param name="VoiceControl" description="Голосовое управление в мобильном приложении">
+<type>list</type>
+<enabled>true</enabled>
+<CountRepeat>3</CountRepeat>
+<nodes>
+<node id="node0.online.sberbank.ru">
+<search>false</search>
+</node>
+<node id="node1.online.sberbank.ru">
+<search>false</search>
+</node>
+<node id="node2.online.sberbank.ru">
+<search>false</search>
+</node>
+<node id="node3.online.sberbank.ru">
+<search>false</search>
+</node>
+<node id="greenfield1.online.sberbank.ru">
+<search>true</search>
+</node>
+<node id="mobile.sberbank.ru">
+<search>false</search>
+</node>
+<node id="ift-node1.testonline.sberbank.ru">
+<search>true</search>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<search>true</search>
+</node>
+<node id="greenfield2.online.sberbank.ru">
+<search>true</search>
+</node>
+</nodes>
+</param>
+<param name="ReceiverLayoutFromAddressBook" description="Функционал показа выбранного из адресной книги получателя включён">
+<type>setting</type>
+<enabled>true</enabled>
+<nodes>
+<node id="node0.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node1.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node2.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node3.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node4.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="greenfield1.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="greenfield2.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru" description="Стенд ИФТ блок 1 (мобильный)">
+<enabled>true</enabled>
+</node>
+<node id="mobile.sberbank.ru" description="Стенд ПСИ">
+<enabled>true</enabled>
+</node>
+</nodes>
+</param>
+<param name="HotPhoneNumbers" description="Отображение горячих телефонов в МП">
+<type>setting</type>
+<hotPhonesEnabled>true</hotPhonesEnabled>
+<nodes>
+<node id="node0.online.sberbank.ru">
+<hotPhonesEnabled>true</hotPhonesEnabled>
+<url/>
+</node>
+<node id="node1.online.sberbank.ru">
+<hotPhonesEnabled>true</hotPhonesEnabled>
+<url/>
+</node>
+<node id="node2.online.sberbank.ru">
+<hotPhonesEnabled>true</hotPhonesEnabled>
+<url/>
+</node>
+<node id="node3.online.sberbank.ru">
+<hotPhonesEnabled>true</hotPhonesEnabled>
+<url/>
+</node>
+<node id="greenfield1.online.sberbank.ru">
+<hotPhonesEnabled>true</hotPhonesEnabled>
+<url/>
+</node>
+<node id="ift-node1.testonline.sberbank.ru">
+<hotPhonesEnabled>true</hotPhonesEnabled>
+<url>
+https://ift-stat.testonline.sberbank.ru:4463/PhizIC-res/mapicfg/HotPhones_v1.xml
+</url>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<hotPhonesEnabled>true</hotPhonesEnabled>
+<url>
+https://ift-stat.testonline.sberbank.ru:4463/PhizIC-res/mapicfg/HotPhones_v1.xml
+</url>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<hotPhonesEnabled>true</hotPhonesEnabled>
+<url>
+https://ift-stat.testonline.sberbank.ru:4463/PhizIC-res/mapicfg/HotPhones_v1.xml
+</url>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<hotPhonesEnabled>true</hotPhonesEnabled>
+<url>
+https://ift-stat.testonline.sberbank.ru:4463/PhizIC-res/mapicfg/HotPhones_v1.xml
+</url>
+</node>
+<node id="ift-node4-mp.testonline.sberbank.ru">
+<hotPhonesEnabled>true</hotPhonesEnabled>
+<url>
+https://ift-stat.testonline.sberbank.ru:4463/PhizIC-res/mapicfg/HotPhones_v1.xml
+</url>
+</node>
+<node id="psinode2.testonline.sberbank.ru">
+<hotPhonesEnabled>true</hotPhonesEnabled>
+<url>
+https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/HotPhones_v1.xml
+</url>
+</node>
+<node id="psinode1.testonline.sberbank.ru">
+<hotPhonesEnabled>true</hotPhonesEnabled>
+<url>
+https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/HotPhones_v1.xml
+</url>
+</node>
+<node id="mobile.sberbank.ru">
+<hotPhonesEnabled>true</hotPhonesEnabled>
+<url>
+https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/HotPhones_v11.xml
+</url>
+</node>
+</nodes>
+</param>
+<param name="disabledFrameworks" description="Функционал отключения зависимостей">
+<enabled>true</enabled>
+<remoteToggleEnabled>true</remoteToggleEnabled>
+</param>
+<param name="ChangeLocaleService" description="Многоязычность">
+<type>service</type>
+<languageSSMGChange>true</languageSSMGChange>
+<nodes>
+<node id="node0.online.sberbank.ru">
+<enabled>true</enabled>
+<languageSSMGChange>true</languageSSMGChange>
+</node>
+<node id="node1.online.sberbank.ru">
+<enabled>true</enabled>
+<languageSSMGChange>true</languageSSMGChange>
+</node>
+<node id="node2.online.sberbank.ru">
+<enabled>true</enabled>
+<languageSSMGChange>true</languageSSMGChange>
+</node>
+<node id="node3.online.sberbank.ru">
+<enabled>true</enabled>
+<languageSSMGChange>true</languageSSMGChange>
+</node>
+<node id="greenfield1.online.sberbank.ru">
+<enabled>true</enabled>
+<languageSSMGChange>true</languageSSMGChange>
+</node>
+<node id="ift-node1.testonline.sberbank.ru">
+<enabled>true</enabled>
+<languageSSMGChange>true</languageSSMGChange>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<enabled>true</enabled>
+<languageSSMGChange>true</languageSSMGChange>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
+<languageSSMGChange>true</languageSSMGChange>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
+<languageSSMGChange>true</languageSSMGChange>
+</node>
+<node id="ift-node4-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
+<languageSSMGChange>true</languageSSMGChange>
+</node>
+<node id="psinode2.testonline.sberbank.ru">
+<enabled>true</enabled>
+<languageSSMGChange>false</languageSSMGChange>
+</node>
+<node id="psinode1.testonline.sberbank.ru">
+<enabled>true</enabled>
+<languageSSMGChange>false</languageSSMGChange>
+</node>
+<node id="mobile.sberbank.ru">
+<enabled>false</enabled>
+<languageSSMGChange>false</languageSSMGChange>
+</node>
+</nodes>
+</param>
+<param name="ManagerRegistration" description="регистрация менеджера в всп">
+<type>setting</type>
+<enabled>true</enabled>
+</param>
+<param name="hideOperationsCardCLIENT2OTHER" description="Скрытие операций по дополнительной карте, которые должны быть недоступны для держателя основной карты">
+<type>setting</type>
+<enabled>true</enabled>
+</param>
+<param name="CloseCardAccount" description="Закрытие счета карты">
+<type>service</type>
+<enabled>true</enabled>
+<nodes>
+<node id="mobile.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="psinode2.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="psinode1.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="194.186.207.23">
+<enabled>true</enabled>
+</node>
+</nodes>
+</param>
+<param name="iscServiceDetails" description="Отображения условий обслуживания по картам ИЗК">
+<type>setting</type>
+<enabled>true</enabled>
+<link>
+https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/levels_isc.xml
+</link>
+</param>
+<param name="UseTransferFromCreditCard" description="Доступность выбора кредитной карты как источника списания в переводах между своими счетами">
+<type>setting</type>
+<enabled>true</enabled>
+</param>
+<param name="mobileQuickPayment" description="Быстрые суммы при оплате сотового">
+<type>setting</type>
+<enabled>true</enabled>
+<tellThemNoCommision>true</tellThemNoCommision>
+<quickpayments>
+<quickpayment>100</quickpayment>
+<quickpayment>200</quickpayment>
+<quickpayment>500</quickpayment>
+</quickpayments>
+<nodes>
+<node id="node0.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node1.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node2.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node3.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="node4.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="greenfield1.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="greenfield2.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru" description="Стенд ИФТ блок 1 (мобильный)">
+<enabled>true</enabled>
+</node>
+<node id="mobile.sberbank.ru" description="Стенд ПСИ">
+<enabled>true</enabled>
+</node>
+</nodes>
+</param>
+</params>
+</configuration>
