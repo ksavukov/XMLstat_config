@@ -10142,7 +10142,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/Rus.json
 <tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 <NewNotificationsList>true</NewNotificationsList>
 <NewNotificationsListHistory>true</NewNotificationsListHistory>
-<NewNotificationsListSearch>true</NewNotificationsListSearch>
+<NewNotificationsListSearch>false</NewNotificationsListSearch>
 <newPushAutoTurn>true</newPushAutoTurn>
 </node>
 <node id="194.186.207.23">
