@@ -10275,7 +10275,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/Rus.json
 <showUniversalPushNotification>true</showUniversalPushNotification>
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
 <nativePushProcessingEnabled>true</nativePushProcessingEnabled>
-<webUrlInUniversalPushNotification>true</webUrlInUniversalPushNotification>
+<webUrlInUniversalPushNotification>false</webUrlInUniversalPushNotification>
 <cardNotificationWithSenderNameAndComment>true</cardNotificationWithSenderNameAndComment>
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
@@ -10315,7 +10315,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/Rus.json
 <showUniversalPushNotification>true</showUniversalPushNotification>
 <getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
 <nativePushProcessingEnabled>true</nativePushProcessingEnabled>
-<webUrlInUniversalPushNotification>true</webUrlInUniversalPushNotification>
+<webUrlInUniversalPushNotification>false</webUrlInUniversalPushNotification>
 <cardNotificationWithSenderNameAndComment>true</cardNotificationWithSenderNameAndComment>
 <routingFromTransactionPushToMessengerEnabled>true</routingFromTransactionPushToMessengerEnabled>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
