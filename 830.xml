@@ -10922,7 +10922,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 <TransferOrTurnOn>true</TransferOrTurnOn>
 <TransferMethod>manual</TransferMethod>
 <TransferMethodAA>manual</TransferMethodAA>
-<TurnOnMethodNC>manual</TurnOnMethodNC>
+<TurnOnMethodNC>auto</TurnOnMethodNC>
 <TransferMethodHA>manual</TransferMethodHA>
 <TransferMethodTC>true</TransferMethodTC>
 </node>
@@ -10967,7 +10967,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 <TransferOrTurnOn>true</TransferOrTurnOn>
 <TransferMethod>manual</TransferMethod>
 <TransferMethodAA>manual</TransferMethodAA>
-<TurnOnMethodNC>manual</TurnOnMethodNC>
+<TurnOnMethodNC>auto</TurnOnMethodNC>
 <TransferMethodHA>manual</TransferMethodHA>
 <TransferMethodTC>true</TransferMethodTC>
 </node>
