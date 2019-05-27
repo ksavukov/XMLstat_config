@@ -1053,7 +1053,6 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usl_card2.pdf
 <CardPANRq id="Visa Business Digital"/>
 <CardPANRq id="MasterCard World Elite Sberbank1"/>
 <CardPANRq id="MasterCard World Black Edition PREMIER"/>
-<CardPANRq id="World MasterCard "Золотой""/>
 </CardPANRqList>
 </param>
 <param name="CardPANRq" description="Определение типов карт для запроса PAN-номера карты">
@@ -1073,7 +1072,6 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usl_card2.pdf
 <CardPANRq id="Visa Business Digital"/>
 <CardPANRq id="MasterCard World Elite Sberbank1"/>
 <CardPANRq id="MasterCard World Black Edition PREMIER"/>
-<CardPANRq id="World MasterCard "Золотой""/>
 </CardPANRqList>
 </param>
 <param name="CardCVVSMS" description="Определение типов карт для которых доступен запрос CVC2/CVV2">
@@ -1098,7 +1096,6 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usl_card2.pdf
 <cardCvv id="Visa Infinite"/>
 <cardCvv id="Visa Platinum PREMIER"/>
 <cardCvv id="Visa Signature"/>
-<cardCvv id="Visa Gold "Золотой""/>
 <cardCvv id="MIR Premium Plus"/>
 <cardCvv id="Visa Gold"/>
 <cardCvv id="Electron"/>
@@ -1117,7 +1114,6 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usl_card2.pdf
 <cardCvv id="Visa Classic"/>
 <cardCvv id="MasterCard World Elite Sberbank1"/>
 <cardCvv id="MasterCard World Black Edition PREMIER"/>
-<cardCvv id="World MasterCard "Золотой""/>
 <cardCvv id="Visa Digital"/>
 <cardCvv id="Visa Virtual"/>
 <cardCvv id="Visa Platinum"/>
@@ -1131,7 +1127,6 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usl_card2.pdf
 <cardCvv id="Visa Infinite"/>
 <cardCvv id="Visa Platinum PREMIER"/>
 <cardCvv id="Visa Signature"/>
-<cardCvv id="Visa Gold "Золотой""/>
 <cardCvv id="MIR Premium Plus"/>
 <cardCvv id="Visa Gold"/>
 <cardCvv id="Electron"/>
