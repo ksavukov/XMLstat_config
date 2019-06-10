@@ -10875,7 +10875,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 <TransferMethodHA>manual</TransferMethodHA>
 <TransferMethodTC>true</TransferMethodTC>
 </node>
-<node id="ift-node5-mp.testonline.sberbank.ru">
+<node id="ift-node1-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>2</MFMSMessageRequestType>
@@ -10921,7 +10921,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 <TransferMethodHA>manual</TransferMethodHA>
 <TransferMethodTC>true</TransferMethodTC>
 </node>
-<node id="ift-node7-mp.testonline.sberbank.ru">
+<node id="ift-node2-mp.testonline.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <MFMSMessageRequestType>2</MFMSMessageRequestType>
@@ -10960,10 +10960,10 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 <newPushAutoTurn>true</newPushAutoTurn>
 <enableDeletePushMessage>true</enableDeletePushMessage>
 <TransferOrTurnOn>true</TransferOrTurnOn>
-<TransferMethod>manual</TransferMethod>
-<TransferMethodAA>manual</TransferMethodAA>
-<TurnOnMethodNC>manual</TurnOnMethodNC>
-<TransferMethodHA>manual</TransferMethodHA>
+<TransferMethod>auto</TransferMethod>
+<TransferMethodAA>auto</TransferMethodAA>
+<TurnOnMethodNC>auto</TurnOnMethodNC>
+<TransferMethodHA>auto</TransferMethodHA>
 <TransferMethodTC>true</TransferMethodTC>
 </node>
 </nodes>
