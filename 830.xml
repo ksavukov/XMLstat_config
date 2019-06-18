@@ -9184,6 +9184,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
 <enabled>true</enabled>
+<node id="ift-node7-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
 </node>
 </nodes>
 </param>
