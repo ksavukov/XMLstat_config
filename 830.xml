@@ -10962,10 +10962,10 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 <newPushAutoTurn>true</newPushAutoTurn>
 <enableDeletePushMessage>true</enableDeletePushMessage>
 <TransferOrTurnOn>true</TransferOrTurnOn>
-<TransferMethod>auto</TransferMethod>
-<TransferMethodAA>auto</TransferMethodAA>
-<TurnOnMethodNC>auto</TurnOnMethodNC>
-<TransferMethodHA>auto</TransferMethodHA>
+<TransferMethod>manual</TransferMethod>
+<TransferMethodAA>manual</TransferMethodAA>
+<TurnOnMethodNC>manual</TurnOnMethodNC>
+<TransferMethodHA>manual</TransferMethodHA>
 <TransferMethodTC>true</TransferMethodTC>
 </node>
 </nodes>
